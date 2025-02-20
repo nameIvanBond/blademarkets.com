@@ -2,7 +2,7 @@
   "name": "trade-mf",
   "version": "1.0.0",
   "config": {
-    "s3BucketName": "eforex.com-web",
+    "s3BucketName": "blademarkets.com-web",
     "region": "ap-southeast-2",
     "cloudFormationStackName": "eforex.com",
     "functionName": ""
@@ -25,13 +25,7 @@
     "build:ssr:proxy": "node proxy-server.js",
     "node_win": "node server/server.js",
     "                 AWS": "",
-    "S3:CDN:deploy eforex.com-web": "aws s3 sync ./dist/TradeMF/browser/ s3://eforex.com-web/ --profile WORKAWS",
-    "                 DOCKER": "",
-    "Docker_build": "docker build -t bmfn:15 .",
-    "Docker_RUN": "docker run -d -p 80:80 bmfn:15",
-    "Docker_RENAME": "docker tag bmfn:15 530460237251.dkr.ecr.eu-central-1.amazonaws.com/bmfn:15",
-    "Docker_PUSH": "docker push 530460237251.dkr.ecr.eu-central-1.amazonaws.com/bmfn:15",
-    "Docker_LOGIN": "aws ecr get-login-password --region eu-central-1 | docker login --username AWS --password-stdin 530460237251.dkr.ecr.eu-central-1.amazonaws.com"
+    "S3:CDN:deploy blademarkets.com-web": "aws s3 sync ./dist/TradeMF/browser/ s3://blademarkets.com-web/ --profile WORKAWS",
   },
   "private": true,
   "dependencies": {
