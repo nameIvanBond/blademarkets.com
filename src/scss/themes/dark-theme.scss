@@ -1,0 +1,16 @@
+$my-dark-primary: mat-palette($mat-grey, 700, 300, 900);
+$my-dark-accent: mat-palette($mat-blue-grey, 400);
+$my-dark-warn: mat-palette($mat-red, 500);
+
+$mat-dark-theme-background: (
+  app-bar: transparent,
+);
+
+$my-dark-theme: mat-dark-theme(
+  $my-dark-primary,
+  $my-dark-accent,
+  $my-dark-warn
+);
+
+
+body.my-dark-theme app-layout-auth mat-sidenav-content mat-toolbar{position: absolute; color: white;}

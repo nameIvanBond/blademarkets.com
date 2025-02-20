@@ -1,0 +1,38 @@
+<div class="news_sec1 active_animate">
+  <div class="contentCenter ">
+    <div class="">
+    <h1 class="news_sec1_h txt_white">Forex News</h1>
+    <div class="news_sec1_info" fxLayout="row wrap" fxLayoutAlign="space-between end">
+
+      <div class="news_sec1_info_box" fxLayout="row wrap" fxLayoutAlign="space-between start">
+
+        <div class="news_sec1_info_box_col fadeIn animate delay_0{{i}}" fxFlex="100" fxFlex.gt-sm="30" fxFlex.gt-xs="25" *ngFor="let item of arrayNews; let i = index">
+          <a routerLink="/forex-news/{{item.url}}.html" class="news_sec1_info_box_col_link" title="{{item.title}}"></a>
+          <h4 class="news_sec1_info_box_col_h">{{item.title}}</h4>
+          <div class="news_sec1_info_box_col_img" [ngStyle]="{'background-image': 'url(https://news.eforex.com/' + item.gallery + ')'}">
+          </div>
+          <p class="news_sec1_info_box_col_txt1 m_t_mob_s" [innerHtml]="item.intro"></p>
+          <p class="news_sec1_info_box_col_txt2 m_t_mob_s">{{item.publishedDate | date: 'dd-MM-yyyy HH:mm'}}</p>
+
+        </div>
+
+
+      </div>
+      <mat-paginator [length]="length"
+                     [pageSize]="pageSize"
+                     [pageSizeOptions]="pageSizeOptions"
+                     (page)="getPaginatorData($event)"
+                     aria-label="Select page" fxFlex="100" class="m_t_tab">
+      </mat-paginator>
+
+      <div *ngIf="pageEvent">
+        <h5>Page Change Event Properties</h5>
+        <div>List length: {{pageEvent.length}}</div>
+        <div>Page size: {{pageEvent.pageSize}}</div>
+        <div>Page index: {{pageEvent.pageIndex}}</div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+

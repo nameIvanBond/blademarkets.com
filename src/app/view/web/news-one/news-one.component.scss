@@ -1,0 +1,34 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+
+.news_conent{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+    min-height: 230px;
+    @include respond_to(tab) {
+      text-align: left;
+      min-height: auto;
+    }
+  }
+  &_info {
+    min-height: 700px;
+    margin-top: $indent_pc;
+    padding: 50px 100px;
+    background-color: white;
+    @include respond_to(tab) {
+      padding: 11% 3%;
+    }
+    &_link{
+      color: #9d968c;
+      text-decoration: underline;
+    }
+  }
+}

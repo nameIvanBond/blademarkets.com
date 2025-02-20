@@ -1,0 +1,60 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.bonus_page{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+}
+
+.bonus_sec1{
+
+  position: relative;
+
+
+  &_h{
+    text-align: center;
+    margin:0 auto;
+    @include respond_to(tab) {
+      text-align: left;
+    }
+  }
+  &_box{
+    margin-top: $indent_pc;
+  }
+}
+
+.bonus_sec2{
+  margin-top: $indent_pc;
+
+  &_box{
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    @include respond_to(tab) {
+      padding: 0;
+    }
+  }
+  &_desc{
+    padding-left: $indent_mob;
+  }
+}
+
+.bonus_sec3{
+  margin-top: $indent_pc;
+
+  .contentCenter_big{
+    padding: 108px 112px;
+    background-color: #9d968c;
+    box-sizing: border-box;
+    @include respond_to(tab) {
+      padding: 30px;
+    }
+  }
+  &_h{
+    font-family: 'NotoSerifDisplay','Arial';
+    font-size: 48px;
+  }
+}

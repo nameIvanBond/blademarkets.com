@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template" target-language="hi-IN">
+    <body>
+      <trans-unit id="1910165201714900744" datatype="html">
+        <source>eForex: Forex broker serving traders worldwide since 1988 | eForex</source>
+        <target>ई-फॉरेक्स: 1988 से व्यापारीयों की सेवा करने वाला विश्वभर में फॉरेक्स ब्रोकर | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <note priority="1" from="description">title 2</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="793038100023391348" datatype="html">
+        <source>eForex is the most trusted brokerage worldwide, serving Forex traders since 1988 with the huge number trading platforms, stocks and currencies to choose</source>
+        <target>ई-फॉरेक्स विश्वभर में सबसे विश्वसनीय ब्रोकरेज है, जो 1988 से फॉरेक्स व्यापारीयों की सेवा कर रहा है, जिसमें विशाल संख्या में व्यापार प्लेटफ़ॉर्म, स्टॉक्स और मुद्राएँ चुनने का विकल्प है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <note priority="1" from="description">description 2</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="3731317240816436416" datatype="html">
+        <source>About</source>
+        <target>विषय</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <note priority="1" from="description">menu 3</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="4509783499766878935" datatype="html">
+        <source>eForex — About</source>
+        <target>eForex — विषय</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <note priority="1" from="description">title 3</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="4138741605910845573" datatype="html">
+        <source>eForex — eForex is the most trusted brokerage worldwide, serving Forex traders since 1988 with the huge number trading platforms, stocks and currencies to choose</source>
+        <target>ई-फॉरेक्स — ई-फॉरेक्स विश्वभर में सबसे विश्वसनीय ब्रोकरेज है, जो 1988 से फॉरेक्स व्यापारीयों की सेवा कर रहा है, जिसमें विशाल संख्या में व्यापार प्लेटफ़ॉर्म, स्टॉक्स और मुद्राएँ चुनने का विकल्प है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <note priority="1" from="description">description 3</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="8098891382852195977" datatype="html">
+        <source>For Traders</source>
+        <target>व्यापारी के लिए</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <note priority="1" from="description">menu 44</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5507804576096243909" datatype="html">
+        <source>Overview</source>
+        <target>अवलोकन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+        <note priority="1" from="description">menu 4</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1487605043144070412" datatype="html">
+        <source>Forex trader, start your successful trading career now | eForex</source>
+        <target>फॉरेक्स व्यापारी, अब अपने सफल व्यापारिक करियर की शुरुआत करें | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <note priority="1" from="description">title 4</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="7658758350121144714" datatype="html">
+        <source>Make a successful career as a forex trader with eForex, the biggest older world’s local brokerage worldwide. Start your forex trading career now</source>
+        <target>ई-फॉरेक्स के साथ एक सफल फॉरेक्स व्यापारी के रूप में एक सफल करियर बनाएं, विश्वभर में सबसे बड़े पुराने विश्व स्तरीय ब्रोकरेज के साथ। अब अपना फॉरेक्स व्यापारिक करियर शुरू करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+        <note priority="1" from="description">description 4</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="647533041512183275" datatype="html">
+        <source>Trading Conditions</source>
+        <target>व्यापार शर्तें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <note priority="1" from="description">menu 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5712252380082531238" datatype="html">
+        <source>Forex trading conditions | eForex</source>
+        <target>फॉरेक्स व्यापार की शर्तें | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <note priority="1" from="description">title 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5242337442250692213" datatype="html">
+        <source>Forex trading conditions help you to learn on executions, spreads, liquidity and other essential technology to trade forex with confidence</source>
+        <target>फॉरेक्स व्यापार की शर्तें आपको व्यापार करने के लिए समृद्धि के साथ विभिन्न प्रक्रियाओं, स्प्रेड, लिक्विडिटी और अन्य महत्वपूर्ण तकनीकों का अध्ययन करने में मदद करती है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <note priority="1" from="description">description 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5054559141451062779" datatype="html">
+        <source>Deposit Bonus</source>
+        <target>बोनस जमा करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <note priority="1" from="description">menu bonus 1</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="7999120205872227031" datatype="html">
+        <source>Deposit Bonus | eForex</source>
+        <target>बोनस जमा करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <note priority="1" from="description">title bonus 1 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="8085676770538274224" datatype="html">
+        <source>Economic Calendar</source>
+        <target>आर्थिक कैलेंडर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <note priority="1" from="description">menu 6</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5974123103945976896" datatype="html">
+        <source>Economic Calendar | eForex</source>
+        <target>आर्थिक कैलेंडर | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <note priority="1" from="description">title 6</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1358601698368904224" datatype="html">
+        <source>Forex economic calendar will you accurate updates on everything that happening in the Forex trading world</source>
+        <target>फॉरेक्स आर्थिक कैलेंडर आपको व्यापार दुनिया में होने वाली हर घटना के सटीक अपडेट प्रदान करेगा</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+        <note priority="1" from="description">description 6</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="2603826726290427569" datatype="html">
+        <source>Holidays Schedule</source>
+        <target>छुट्टियों का कार्यक्रम</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+        <note priority="1" from="description">menu 7</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="8075772308963665259" datatype="html">
+        <source>Forex holidays schedule | eForex</source>
+        <target>फॉरेक्स अवकाश अनुसूची | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <note priority="1" from="description">title 7</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="39183485173856765" datatype="html">
+        <source>Forex holidays schedule for our active traders provide up to date information with events in the financial markets</source>
+        <target>हमारे सक्रिय व्यापारीयों के लिए फॉरेक्स अवकाश अनुसूची वित्तीय बाजार में होने वाली घटनाओं के साथ आधुनिक जानकारी प्रदान करती है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+        <note priority="1" from="description">description 7</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="4418884840333421155" datatype="html">
+        <source>For Partners</source>
+        <target>साथीयों के लिए</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+        <note priority="1" from="description">menu 45</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="7962898969612468861" datatype="html">
+        <source>Benefits to be an introducing broker | eForex</source>
+        <target>एक परिचय ब्रोकर बनने के लाभ | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+        <note priority="1" from="description">title 8</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="4697168942659403325" datatype="html">
+        <source>Increate your potential for success in the Forex market and become introducing broker(IB), get rewards for introducing new clients</source>
+        <target>फॉरेक्स बाजार में सफलता के लिए अपनी संभावना को बढ़ाएं और परिचय ब्रोकर (आईबी) बनें, नए ग्राहकों की परिचय कराने के लिए पुरस्कार प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+        <note priority="1" from="description">description 8</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="407330675185492250" datatype="html">
+        <source>Introducing Brokers</source>
+        <target>परिचयक ब्रोकर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+        <note priority="1" from="description">menu 9</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="9187760433872469855" datatype="html">
+        <source>The process of opening IB account | eForex</source>
+        <target>आईबी खाता खोलने की प्रक्रिया | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+        <note priority="1" from="description">title 9</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="765548668435326729" datatype="html">
+        <source>The simple steps you need to take to create an IB account and what benefits it can bring</source>
+        <target>आईबी खाता बनाने के लिए जो सरल कदम आपको उठाने होंगे और उससे क्या लाभ हो सकता है, उसे समझाने के लिए</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">152</context>
+        </context-group>
+        <note priority="1" from="description">description 9</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5662190392828548148" datatype="html">
+        <source>eForex Platform</source>
+        <target>ई-फ़ॉरेक्स प्लेटफ़ॉर्म</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">175</context>
+        </context-group>
+        <note priority="1" from="description">menu 11</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1797966231444258542" datatype="html">
+        <source>Contact Us</source>
+        <target>हमसे संपर्क करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">303</context>
+        </context-group>
+        <note priority="1" from="description">menu 12</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1920905981587160961" datatype="html">
+        <source>Contact Us, Offices location and more | eForex</source>
+        <target>हमसे संपर्क करें, कार्यालय स्थान और अधिक | ई-फॉरेक्स</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">304</context>
+        </context-group>
+        <note priority="1" from="description">title 12</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="3827750849812946906" datatype="html">
+        <source>Contact Forex broker eForex through telephone, email or chat with one of the forex specialist online</source>
+        <target>फॉरेक्स ब्रोकर ई-फॉरेक्स से टेलीफोन, ईमेल या ऑनलाइन वन ऑफ द फॉरेक्स स्पेशलिस्ट के साथ चैट के माध्यम से संपर्क करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">305</context>
+        </context-group>
+        <note priority="1" from="description">description 12</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="9bd38a5c714c45d658f2d3ad5c0ed9737fd209c7" datatype="html">
+        <source>Thank you, your message has been sent.</source>
+        <target>धन्यवाद, आपका संदेश भेज दिया गया है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">sent message</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="d76bf03ec77a0c84c3804c04236633e54ca197a0" datatype="html">
+        <source>Name</source>
+        <target>नाम</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">form label 1</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="10b2bf5a0eaf92552974a5fa9d3f4996fc8a5a77" datatype="html">
+        <source>Enter Account #</source>
+        <target>खाता नंबर दर्ज करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">form label 2</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="1c95067101650ca13ab31262bf733fb9aea3a1d7" datatype="html">
+        <source>Enter your Phone</source>
+        <target>आपका फोन नंबर दर्ज करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <note priority="1" from="description">form label 3</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="dd14f8e2ddb642a33a14f9d110b14267d57b90d4" datatype="html">
+        <source>Enter your Email</source>
+        <target>आपका ईमेल दर्ज करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <note priority="1" from="description">form label 4</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="aa67f0c4e5d71990e01384d910a9cc87da987e84" datatype="html">
+        <source>CONFIRM</source>
+        <target>पुष्टि करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="1563430341553774129" datatype="html">
+        <source>You must enter a value</source>
+        <target>आपको मान दर्ज करना होगा</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 1</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="4801432940587545489" datatype="html">
+        <source>This field can be more 2 characters long.</source>
+        <target>यह फ़ील्ड 2 अक्षरों से अधिक हो सकती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 2</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="6476155775665464252" datatype="html">
+        <source>This field can be at most 150 characters long.</source>
+        <target>यह फ़ील्ड अधिकतम 150 अक्षरों तक हो सकती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 3</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="1230105856423400294" datatype="html">
+        <source>An Email is required.</source>
+        <target>एक ईमेल की आवश्यकता है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 1</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="1286534753666015704" datatype="html">
+        <source>Please enter a valid email address.</source>
+        <target>कृपया एक मान्य ईमेल पता दर्ज करें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 2</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="3211131850868691572" datatype="html">
+        <source>A phone is required.</source>
+        <target>एक फ़ोन की आवश्यकता है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 1</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="6166618385974533810" datatype="html">
+        <source>That doesn‘t look like a valid phone.</source>
+        <target>वह मान्य फ़ोन नहीं दिखता है.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/bonusForm.component.ts</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 2</note>
+        <note priority="1" from="meaning">bonusForm</note>
+      </trans-unit>
+      <trans-unit id="82b5909b0c9b80eb48c626dd7b102eb2abcfe71a" datatype="html">
+        <source>Enter your Email</source>
+        <target>अपना ईमेल दर्ज करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <note priority="1" from="description">form label 4</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="9718d637eebab0e9bcb9c1326ed16ad1ee8461dd" datatype="html">
+        <source>Your Comment</source>
+        <target>आपकी टिप्पणी</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <note priority="1" from="description">form label 6</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="d48a9c3e46b8a03e78e21ae7d151b4533dc05912" datatype="html">
+        <source>SUBMIT FORM</source>
+        <target>फ़ॉर्म जमा करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="9147838095241945719" datatype="html">
+        <source>You must enter a value</source>
+        <target>आपको मान दर्ज करना होगा</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">217</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">232</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="3162468657420941271" datatype="html">
+        <source>This field can be more 2 characters long.</source>
+        <target>यह फ़ील्ड 2 अक्षरों से अधिक हो सकती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">182</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">199</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">223</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">238</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">251</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 2</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="4837191492498860034" datatype="html">
+        <source>This field can be at most 150 characters long.</source>
+        <target>यह फ़ील्ड अधिकतम 150 अक्षरों तक हो सकती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">202</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">193</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 3</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="8814513610111571884" datatype="html">
+        <source>An Email is required.</source>
+        <target>एक ईमेल की आवश्यकता है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">265</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="8870942507354187294" datatype="html">
+        <source>Please enter a valid email address.</source>
+        <target>कृपया एक मान्य ईमेल पता दर्ज करें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/closeForm.modules.ts</context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">190</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 2</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="7aad9f61e45d47945ee39f6c463908958d921b98" datatype="html">
+        <source>Thank you, your message has been sent.</source>
+        <target>धन्यवाद, आपका संदेश भेज दिया गया है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">sent message</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="064435b21ae96c6014d1f92365da930d254c67a8" datatype="html">
+        <source>Name</source>
+        <target>नाम</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <note priority="1" from="description">form label 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="c873ebe07d7c0e7ec394c90684e1a10a429ee995" datatype="html">
+        <source>Enter your Phone</source>
+        <target>अपना फ़ोन नंबर दर्ज करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <note priority="1" from="description">form label 3</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="1572167567702087354" datatype="html">
+        <source>A phone is required.</source>
+        <target>एक फ़ोन की आवश्यकता है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">200</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="4527654102807929592" datatype="html">
+        <source>That doesn‘t look like a valid phone.</source>
+        <target>वह मान्य फ़ोन नहीं दिखता है.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">203</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="web_mob_btn1" datatype="html">
+        <source>Sign Up</source>
+        <target>साइन अप</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/layout/web-layout/web-layout.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/layout/web-layout/web-layout.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="meaning">web-layout button 1</note>
+      </trans-unit>
+      <trans-unit id="web_mob_btn2" datatype="html">
+        <source>Login</source>
+        <target>लॉग इन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/layout/web-layout/web-layout.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/layout/web-layout/web-layout.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="meaning">web-layout button 2</note>
+      </trans-unit>
+      <trans-unit id="fceb73fce5462fda6ae33a43aa8032153cc30687" datatype="html">
+        <source>Loading...</source>
+        <target>लोड हो रहा है...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/layout/web-layout/web-layout.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <note priority="1" from="description">main lds-ring-txt</note>
+        <note priority="1" from="meaning">web-layout</note>
+      </trans-unit>
+      <trans-unit id="91745ff47a4adbc76c916b54588fc07f04e0f221" datatype="html">
+        <source>Delivering Global Markets Locally, Since 1988</source>
+        <target>साल 1988 से वैश्विक बाजारों की स्थानीय वितरण</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/about/about.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/about/about.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">about_sec1 header</note>
+        <note priority="1" from="meaning">about</note>
+      </trans-unit>
+      <trans-unit id="59e859f1840c7d048471e7038286ef0cc9e34002" datatype="html">
+        <source>Whatever and wherever you want to trade, our trading platforms offer unparalleled access to the most liquid financial markets in the world. Online and mobile trading services ensure that you are never more than a click or two away from your next trade.</source>
+        <target>जो भी हो और जहां भी आप व्यापार करना चाहते हैं, हमारे व्यापार प्लेटफ़ॉर्म दुनिया के सबसे लिक्विड वित्तीय बाजारों तक अद्वितीय पहुँच प्रदान करते हैं। ऑनलाइन और मोबाइल व्यापार सेवाएँ सुनिश्चित करती हैं कि आपका अगला व्यापार कभी एक क्लिक या दो क्लिक की दूरी पर से ज्यादा नहीं होता है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/about/about.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">about_sec1 txt1</note>
+        <note priority="1" from="meaning">about</note>
+      </trans-unit>
+      <trans-unit id="ed8c2d65fe02e78bd7fba5e84cbe1d64eef636db" datatype="html">
+        <source>Our team of expert account managers, traders, and customer support specialists are constantly available to provide you with personal support. You can trade the most well-known and most liquid financial products from a single screen through your brokerage account with eForex.</source>
+        <target>हमारी विशेषज्ञ खाता प्रबंधकों, व्यापारीयों और ग्राहक समर्थन विशेषज्ञों की टीम हमेशा आपकी व्यक्तिगत सहायता प्रदान करने के लिए उपलब्ध रहती है। आप eForex के साथ आपके दलाली खाते के माध्यम से एक ही स्क्रीन से सबसे प्रसिद्ध और सबसे लिक्विड वित्तीय उत्पादों का व्यापार कर सकते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/about/about.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">about_sec1 txt2</note>
+        <note priority="1" from="meaning">about</note>
+      </trans-unit>
+      <trans-unit id="e65b65388c8162463f22a60162948b4307cfcb67" datatype="html">
+        <source>Whether you are a seasoned trader, fund manager, or completely new - eForex has the right tools and resources to help you achieve your goals. Experience the unrivalled trading conditions from a true broker partner today.</source>
+        <target>चाहे आप पुराने व्यापारी हो, फंड प्रबंधक हो या पूरी तरह नए हो - eForex के पास आपकी लक्ष्य प्राप्त करने में मदद करने के लिए उपयुक्त उपकरण और संसाधन हैं। एक सच्चे दलाल साथी की अद्वितीय व्यापार शर्तों का आनंद आज ही लें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/about/about.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">about_sec1 txt3</note>
+        <note priority="1" from="meaning">about</note>
+      </trans-unit>
+      <trans-unit id="2afaf3eec224b768592b42396301572c1e49ec1a" datatype="html">
+        <source>Contact Us</source>
+        <target>हमसे संपर्क करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">sec1 header</note>
+        <note priority="1" from="meaning">contact-us</note>
+      </trans-unit>
+      <trans-unit id="c3d8422473c25a9fa920b3707dad85bf346607ab" datatype="html">
+        <source>Address</source>
+        <target>पता</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">contact_box h1</note>
+        <note priority="1" from="meaning">contact-us</note>
+      </trans-unit>
+      <trans-unit id="fa4eace547dd31211a53b39f1a91cbec9c1b9b05" datatype="html">
+        <source>Phone</source>
+        <target>फ़ोन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">contact_box h2</note>
+        <note priority="1" from="meaning">contact-us</note>
+      </trans-unit>
+      <trans-unit id="contact_btn1" datatype="html">
+        <source>Message eForex on WhatsApp</source>
+        <target>व्हाट्सएप पर eForex को संदेश</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/contact-us/contact-us.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="meaning">contact-us button 1</note>
+      </trans-unit>
+      <trans-unit id="1de88113df6ecb45275ded0bb736bf3ab0f06e04" datatype="html">
+        <source>GET 30% BONUS FROM YOUR DEPOSIT </source>
+        <target>अपनी जमा राशि से 30% बोनस प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">bonus_page header1</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="c15faff749a5eff7077e8ed0df9d4ca9b6c555e5" datatype="html">
+        <source>HOW IT WORKS?</source>
+        <target>यह कैसे काम करता है?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec1 header</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="2a2a21f4ca0fa4d913da9774d67deadc489ba2c7" datatype="html">
+        <source>New or existing accounts at eForex For Trading in Currencies, Metals and Commodities Co who enroll in the Bonus Program and make a qualifying deposit will receive a deposit bonus up to $15,000! The more you deposit, the more bonus funds you receive. Trading requirements do apply. See the Terms and Conditions for more information.</source>
+        <target>ईफोरेक्स पर नए या मौजूदा खातों को मुद्रा, धातु, और कमोडिटी में व्यापार के लिए बोनस प्रोग्राम में पंजीकृत होने और योग्य जमा करने पर $15,000 तक का डिपॉजिट बोनस मिलेगा! आपके द्वारा जमा की गई राशि के हिसाब से आपको ज्यादा बोनस फंड मिलेंगे। व्यापार की शर्तें लागू होती हैं। अधिक जानकारी के लिए नियम और शर्तें देखें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec1 txt1</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="a095725bd0253f5bbd84aae2d04e0b97968e8793" datatype="html">
+        <source>In order to apply for a bonus program, please proceed to the bonus section of the eForex For Trading in Currencies, Metals and Commodities Co Private Cabinet.</source>
+        <target>बोनस प्रोग्राम के लिए आवेदन करने के लिए, कृपया मुद्रा, धातु, और कमोडिटी में व्यापार के ईफोरेक्स फॉर ट्रेडिंग के प्राइवेट कैबिनेट के बोनस सेक्शन में जाएं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec1 txt2</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="bonus_btn1" datatype="html">
+        <source>Get Bonus Now</source>
+        <target>अभी बोनस प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="meaning">bonus button 1</note>
+      </trans-unit>
+      <trans-unit id="b83c1dfca75f2ce551094e38006ea2784dfef2e1" datatype="html">
+        <source>GET 30% BONUS FROM YOUR DEPOSIT</source>
+        <target>अपनी जमा राशि से 30% बोनस प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec1 img1</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="99e4e0d8e97285389193faecfec6e384678858d9" datatype="html">
+        <source>1 lot shall be equal to 1 industry standard lot or 10 mini lots on eForex.</source>
+        <target>1 लॉट, ईफोरेक्स पर 1 इंडस्ट्री मानक लॉट या 10 मिनी लॉट के बराबर होगा।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec2 txt3</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="58a7018cba77b64189194e8699d2825d4bf66c63" datatype="html">
+        <source>is for Forex trading only. Round Turn Requirements are calculated ONLY on Forex Products, no CFDs on Futures, Commodities or Equities.</source>
+        <target>यह केवल फॉरेक्स व्यापार के लिए है। राउंड टर्न की आवश्यकताएं केवल फॉरेक्स प्रोडक्ट्स पर ही गणना की जाती है, फ्यूचर्स, कमोडिटीज़, या इक्विटीज़ पर नहीं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec2 txt4</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="8179126a3f9600a935ef4d70a0ea3805b313939f" datatype="html">
+        <source>Any internal transfer from eForex For Trading in Currencies, Metals and Commodities Co accounts shall not be considered as a deposit for Promotion purposes.</source>
+        <target>किसी भी ईफोरेक्स फॉर मुद्रा, धातु, और कमोडिटी में व्यापार के खातों से किए गए किसी भी आंतरिक स्थानांतरण को प्रमोशन के उद्देश्यों के लिए जमा के रूप में नहीं माना जाएगा।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec2 txt5</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="f7a797165bc2c797efc716363dec8725f3b6b30f" datatype="html">
+        <source>In order to apply for a bonus program, please proceed to the bonus section of the Private Cabinet</source>
+        <target>बोनस प्रोग्राम के लिए आवेदन करने के लिए, कृपया निजी कैबिनेट के बोनस सेक्शन में जाएं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec2 txt6</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="91b62415130bc6f6798c404a30fa4cebc148a144" datatype="html">
+        <source>BONUS REQUEST FORM</source>
+        <target>बोनस अनुरोध फॉर्म</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec3 header2</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="d86e49db9335e1eafaaf469b3e677199c69b3ef0" datatype="html">
+        <source>Fill Your Contact Info.</source>
+        <target>आपकी संपर्क जानकारी भरें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/deposit-bonus/deposit-bonus.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <note priority="1" from="description">bonus_sec3 header3</note>
+        <note priority="1" from="meaning">bonus</note>
+      </trans-unit>
+      <trans-unit id="c84e70a166b0ea7f16fdff8ed564dc6c11cf2ee0" datatype="html">
+        <source>Economic Calendar</source>
+        <target>आर्थिक कैलेंडर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/economic-calendar/economic-calendar.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">economic_sec1 header</note>
+        <note priority="1" from="meaning">economic-calendar</note>
+      </trans-unit>
+      <trans-unit id="342c63907dec9ea50f245a0964e0e08a711b43ff" datatype="html">
+        <source>eForex Trading Platform</source>
+        <target>ई-फ़ॉरेक्स व्यापार प्लेटफ़ॉर्म</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec1 header</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="8cd6cf44210302e63c0aa2783344d4a895389cb5" datatype="html">
+        <source>The most innovative Forex and CFD Trading Platform</source>
+        <target>सबसे नवाचारी फॉरेक्स और सीएफडी व्यापार प्लेटफ़ॉर्म</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec1 txt1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="platform_btn1" datatype="html">
+        <source>DOWNLOAD PLATFORM</source>
+        <target>प्लेटफ़ॉर्म डाउनलोड</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="meaning">platform button 1</note>
+      </trans-unit>
+      <trans-unit id="platform_btn2" datatype="html">
+        <source>OPEN DEMO ACCOUNT</source>
+        <target>करें डेमो खाता खोलें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="meaning">platform button 2</note>
+      </trans-unit>
+      <trans-unit id="b350caaa18ba43de56ed41dea60615b723cf2ad0" datatype="html">
+        <source>Trade On The Go</source>
+        <target>चलते-फिरते व्यापार करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec3 img1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="6ac934ed38bf3e6084407edaf22193f980a4613d" datatype="html">
+        <source>Trade Forex and CFDs on Shares and ETF’s, Metals, Commodities and Futures directly from your Apple mobile devices 24/6.</source>
+        <target>अपने Apple मोबाइल डिवाइसों से सीधे 24/6 घंटे में विदेशी मुद्रा और सीएफडी पर व्यापार करें, शेयर्स और ईटीएफ के साथ, मेटल्स, कमोडिटीज और फ्यूचर्स पर।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec3 txt1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="d9f6a73ef41b470775523c8df9a3e72c3a47fdce" datatype="html">
+        <source>Real Time Trading</source>
+        <target>वास्तविक समय व्यापार</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec4 h1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="749623c8aed75736f2560e4c519d9d48bb7b3d8e" datatype="html">
+        <source>With the eForex Trading Platform, you can open, close and modify your Forex and CFD orders as well as monitor your trading history all in real time.</source>
+        <target>ई-फ़ॉरेक्स व्यापार प्लेटफ़ॉर्म के साथ, आप अपने विदेशी मुद्रा और सीएफडी आदेश खोल, बंद और संशोधित कर सकते हैं, साथ ही अपने व्यापार का इतिहास भी वास्तविक समय में मॉनिटर कर सकते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec4 txt1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="286a559fd25a775870b9182402622d9d8918e521" datatype="html">
+        <source>Easy to Start</source>
+        <target>आरंभ करने में आसान</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec4 h2</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="35e70b3a05777d822c2bb86e444ca96c655dfb7e" datatype="html">
+        <source>It is extremely easy to register your trading account. In less than two minutes you can navigate and trade most liquid financial products in the world.</source>
+        <target>अपने व्यापारिक खाते को पंजीकृत करना अत्यंत सरल है। दो मिनट से कम समय में आप दुनियाभर के सबसे तत्वय वित्तीय उत्पादों में नेविगेट करके व्यापार कर सकते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec4 txt2</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="52cc1fd38d4442a1481610cec2275c861478b570" datatype="html">
+        <source>Trading</source>
+        <target>व्यापार</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 h1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="3d96f01bb07d5b081ced5a20e5be689923de73fb" datatype="html">
+        <source>Real-time quotes for over 200 global financial instruments provided by the US, EU, AU, LatAm, ME and Asian exchanges.</source>
+        <target>अमेरिका, यूई, एयू, लैटिन अमेरिका, मध्य पूर्व और एशियाई एक्सचेंजेज द्वारा प्रदान किए जाने वाले 200 से अधिक वैश्विक वित्तीय उपकरणों के लिए वास्तविक समय कोटेशन।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt1</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="946f65471183a31057c86a8b89e0a906619c3516" datatype="html">
+        <source>Comprehensive order/positions controls including Limit/Stop orders</source>
+        <target>सीमा/रोक आदेश सहित व्यापार/स्थितियों के नियंत्रण</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt2</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="b237b7f45781c53d64fa4f64343277e79ddb1e1d" datatype="html">
+        <source>Full trading history</source>
+        <target>पूरा व्यापार इतिहास</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt3</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="74f4b60e0fdf617099ba466adcc364f01a4542d9" datatype="html">
+        <source>Multiple Accounts simultaneous trading and management</source>
+        <target>एक साथ कई खातों पर व्यापार और प्रबंधन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt4</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="471eeb02fb386efe574e0821b0947db8c64ceccb" datatype="html">
+        <source>Usability</source>
+        <target>उपयोगिता</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 h2</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="656f9904554a0229be0069d5c382f7639ca0dca3" datatype="html">
+        <source>Innovative user-friendly interface design</source>
+        <target>नवाचारी उपयोगकर्ता-मित्र संवाद डिज़ाइन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt5</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="575734cd090268aab638ae41a4c276fabe0b29d8" datatype="html">
+        <source>Minimum traffic requirements</source>
+        <target>न्यूनतम ट्रैफिक आवश्यकताएँ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt6</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="19d81d92cf318536b15589b6209fcaf3c977938b" datatype="html">
+        <source>High performance architecture allows to lower down the battery consumption</source>
+        <target>उच्च प्रदर्शन संरचना बैटरी खपत को कम करने की अनुमति देती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt7</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="8b056dba52dd6f6624f86818f1081a56f3eb92a2" datatype="html">
+        <source>Technical analysis</source>
+        <target>तकनीकी विश्लेषण</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 h3</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="c635ec0edbdbb282465e9613d6a65a37aab178f3" datatype="html">
+        <source>Real-time instrument charts with scroll and zoom options</source>
+        <target>रियल-टाइम उपकरण चार्ट जिनमें स्क्रॉल और ज़ूम विकल्प हैं</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt8</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="f2fe7017c35acf18591ac5d0f337089b88fddca4" datatype="html">
+        <source>8 chart time frames from 1 minute up to the monthly overview</source>
+        <target>1 मिनट से मासिक अवलोकन तक 8 चार्ट समय-मान</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt9</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="8ee01d7c3ed5eacec96bdc77a39b18d26de86bc3" datatype="html">
+        <source>Detailed instrument information includes minimum lot requirements, swap rates and other useful information</source>
+        <target>विस्तृत उपकरण जानकारी में न्यूनतम लॉट आवश्यकताएँ, स्वैप दरें और अन्य उपयोगी जानकारी शामिल हैं</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/eforex/platform.component.html</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+        <note priority="1" from="description">pl_sec5 li_txt10</note>
+        <note priority="1" from="meaning">platform</note>
+      </trans-unit>
+      <trans-unit id="a815c685332859abba948832905a28be109b85f5" datatype="html">
+        <source>Earn Continuous Commissions For Introducing New Traders To eForex</source>
+        <target>नए व्यापारियों को eForex में परिचयित करने के लिए निरंतर कमीशन कमाएं</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec1 header</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="63d2b34e1452beb79937151bb59c5fe7df4edae0" datatype="html">
+        <source>Our introducing broker or (IB) program is a great opportunity to receive significant compensation for introducing new clients to eForex.</source>
+        <target>हमारा परिचयक ब्रोकर या (आईबी) कार्यक्रम नए ग्राहकों को eForex में परिचयित करने के लिए महत्वपूर्ण मुआवजा प्राप्त करने का एक शानदार अवसर है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec1 txt1</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="3bbe9ecc2337b0956df60d1ad05cef14c03cc0e2" datatype="html">
+        <source>If you want to increase your revenues and be a successful introducing broker, contributing to eForex will increase your sales and can provide more privileges.</source>
+        <target>यदि आप अपने आय को बढ़ाना और एक सफल परिचयक ब्रोकर बनना चाहते हैं, तो eForex में योगदान देने से आपकी बिक्री बढ़ेगी और अधिक विशेषाधिकार प्रदान कर सकता है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec1 txt2</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="0b6be26c1122985bfedf3347fc8238d0dce30f53" datatype="html">
+        <source>We are ready to discuss the best ways to get our mutual partnership started. Feel free to contact us and find out more about IB broker program via email or chat with one of our specialists.</source>
+        <target>हम आपके साथ हमारे संयुक्त साझेदारी की शुरुआत करने के सबसे अच्छे तरीके पर चर्चा करने के लिए तैयार हैं। हमसे संपर्क करने में सुरक्षित महसूस करें और ईमेल के माध्यम से या हमारे विशेषज्ञों में से किसी के साथ चैट करके IB ब्रोकर प्रोग्राम के बारे में और अधिक जानें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec1 txt3</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="4fe121b0a6d0e1b6571ec84af103b693d6e36d9d" datatype="html">
+        <source>Why Clients Prefer eForex</source>
+        <target>ग्राहकों की पसंद eForex क्यों</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec2 header</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="478802b1e6ce0c4680a1d85ca561b7531a90f7a7" datatype="html">
+        <source>Premium educational materials</source>
+        <target>प्रीमियम शिक्षात्मक सामग्री</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec2 txt1</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="583bb3de8898083764532a314a97135e44ec53e2" datatype="html">
+        <source>Financial strength, transparency and stability</source>
+        <target>वित्तीय शक्ति, पारदर्शिता और स्थिरता</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec2 txt2</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="76de93a53093b5eac27ff9b5969718ea4d70f5c5" datatype="html">
+        <source>No Dealing Desk execution</source>
+        <target>कोई डीलिंग डेस्क प्रशासन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec2 txt3</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="for_partners_btn1" datatype="html">
+        <source>BECOME AN IB</source>
+        <target>एक आईबी बनें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <note priority="1" from="meaning">for-partners button 1</note>
+      </trans-unit>
+      <trans-unit id="e117869f5bb7fd50bd2f0a60b42ee00586d53f60" datatype="html">
+        <source>Here is Just Some of the Benefits to be an IB With eForex</source>
+        <target>एफ़ॉरेक्स के साथ आईबी बनने के कुछ लाभों में सिर्फ कुछ यहाँ है</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 header</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="21929fb5d75745c01acb59e5825733f9b3add879" datatype="html">
+        <source>Industry leading back office technology to track business and compensation</source>
+        <target>व्यवसाय और मुआवजा को ट्रैक करने के लिए उद्योग अग्रणी बैक ऑफिस प्रौद्योगिकी</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 txt1</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="b4a9c19f27af598e1c02256fbdbd4d3e4d343187" datatype="html">
+        <source>Readymade promo banners, affiliate links and educational materials </source>
+        <target>तैयार प्रमो बैनर, सहयोगी लिंक और शैक्षिक सामग्री</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 txt2</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="a1402cd5c136578c798f2050459d59810db63580" datatype="html">
+        <source>Real time revenue generation and reporting</source>
+        <target>वास्तविक समय पर आय उत्पन्न करना और रिपोर्टिंग</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 txt3</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="c210965e989398563605ba37e7d202812aa2c2cd" datatype="html">
+        <source>Broad suite of client platforms in multiple languages</source>
+        <target>विभिन्न भाषाओं में ग्राहक प्लेटफ़ॉर्मों का व्यापक सुइट</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 txt4</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="374d87aa725235d227c3852444b1a54bb4e21f3a" datatype="html">
+        <source>24-hour customer support</source>
+        <target>24 घंटे का ग्राहक समर्थन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec3 txt5</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="dbf9852c0b53380e3277797fb5866ff95aee888d" datatype="html">
+        <source>HOW TO BECOME AN INTRODUCING BROKER</source>
+        <target>परिचयक ब्रोकर बनने का तरीका</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 header</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="ea6869314a09f4991831e29717ea1d93852a5273" datatype="html">
+        <source>Step 1</source>
+        <target>कदम 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 txt1</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="5236c0fe96bed5ce0038cb0f981fcdc611739062" datatype="html">
+        <source>Register as IB</source>
+        <target>आईबी के रूप में पंजीकरण करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 h1</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="cfa630af7bf7c19bbc42992b8c7fc4961f6aa841" datatype="html">
+        <source>Step 2</source>
+        <target>कदम 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 txt2</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="7c693ca86372e4b67aaa436bf63252577dc0e78f" datatype="html">
+        <source>Choose Schedule</source>
+        <target>अनुसूची चुनें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 h2</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="27de41f21390668fcc4f25a859ac3967246e0af6" datatype="html">
+        <source>Step 3</source>
+        <target>कदम 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 txt3</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="687e8acbd98ca13839af980e1a2eb95e1759415d" datatype="html">
+        <source>Sign Agreement</source>
+        <target>समझौता करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 h3</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="d427ca7d35925b5c4bd7a1a4f05ef9d4ae98ca1c" datatype="html">
+        <source>Step 4</source>
+        <target>कदम 4</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 txt4</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="33699d6797b7057b88a5be20b24080bac52b5274" datatype="html">
+        <source>Take Profit</source>
+        <target>लाभ उठाएं</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+        <note priority="1" from="description">partners_sec4 h4</note>
+        <note priority="1" from="meaning">for-partners</note>
+      </trans-unit>
+      <trans-unit id="for_partners_btn2" datatype="html">
+        <source>BECOME AN IB</source>
+        <target>एक आईबी बनें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-partners/for-partners.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+        <note priority="1" from="meaning">for-partners button 2</note>
+      </trans-unit>
+      <trans-unit id="1b505877edde7b8283a7fdc9f854f5d9b000920e" datatype="html">
+        <source>Profitable Trading</source>
+        <target>लाभकारी व्यापार</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 header</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="593209030ee0562fdd0d74f4f6853bf92c5c1bbd" datatype="html">
+        <source>Financial instruments to choose from. Including FX, CFDs on shares and commodities</source>
+        <target>वित्तीय उपकरण चुनने के लिए। विशेष रूप से एफ़एक्स, शेयर्स और कमोडिटी पर सीएफडी।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt1</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="91d4a2bc837e4dfc2511126d841689a1355a67a8" datatype="html">
+        <source>Exclusive trading conditions with No Dealing Desk environment</source>
+        <target>विशिष्ट व्यापार शर्तें बिना डीलिंग डेस्क वातावरण के साथ।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt2</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="1281fde3dac0fa993d9ed591d2ee3e7081343f73" datatype="html">
+        <source>Flexible leverage to suit your trading experience and style.</source>
+        <target>लचीला लीवरेज आपके व्यापारिक अनुभव और शैली को ध्यान में रखने के लिए।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt3</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="c4978c5e9f1148bad26e390328c529cb6bd6cd51" datatype="html">
+        <source>pips target spreads on most majors</source>
+        <target>अधिकांश प्रमुख विदेशी मुद्राओं पर पिप्स लक्ष्य स्प्रेड।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt4</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="afd06f12ffcdc862bd20481dd0a0cf7b2470754a" datatype="html">
+        <source>Commissions or additional charges. The spread is all you pay.</source>
+        <target>कमीशन या अतिरिक्त शुल्क। स्प्रेड ही आपका भुगतान है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt5</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="a98d3d1d09d32a767dc86ab68d939a295773fca7" datatype="html">
+        <source>Ability to trade micro lots</source>
+        <target>माइक्रो लॉट व्यापार करने की क्षमता।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt6</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="303d47e31706308615839c3eddd76451bd70bcf3" datatype="html">
+        <source>Start trading with as little as $10 initial investment.</source>
+        <target>केवल $10 प्रारंभिक निवेश के साथ व्यापार शुरू करें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec1 txt7</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="e5ede8513d21f00596a4a904cef79196cb457d09" datatype="html">
+        <source>Secure &amp; Immediate Deposits &amp; Withdrawals</source>
+        <target>सुरक्षित और तुरंत जमा और निकासी।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec2 img1</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="89f1a0113fb5013cabaecb067412fb7a5c237957" datatype="html">
+        <source>In the market since 1988</source>
+        <target>1988 से बाजार में।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec2 txt1</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="28a0654a07630371f79201b261e4152c8fe680b8" datatype="html">
+        <source>eForex Group – 14 Offices worldwide</source>
+        <target>ई-फ़ॉरेक्स ग्रुप - 14 कार्यालय विश्वभर में।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec2 txt2</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="c3a696eab7874cd62f17ab411df60f7effd51b41" datatype="html">
+        <source>Segregated client trust accounts with AA Rated banks</source>
+        <target>एए रेटेड बैंकों के साथ विभिन्न ग्राहक विश्वास खाते।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec2 txt3</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="8997ad381ab65cd99bb5e9dcadec7446c42f31f7" datatype="html">
+        <source>Over 12 immediate deposit options at your choice - Bank Wire, Credit cards, Skrill, China Union and more</source>
+        <target>आपकी पसंद पर 12 से अधिक तुरंत जमा विकल्प - बैंक तार, क्रेडिट कार्ड, स्क्रिल, चीन यूनियन और अधिक।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec2 txt4</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="f550dfbdbc0c82023954be2e1d605ef906f8fbdc" datatype="html">
+        <source>We Are Near You With Professional Support</source>
+        <target>हम आपके पास पेशेवर समर्थन के साथ हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 header</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="8dc903271a104596732ec3533c95fdd9d1fcfb31" datatype="html">
+        <source>Offices worldwide: Australia, United Kingdom, UAE, Egypt and other</source>
+        <target>कार्यालय विश्वभर में: ऑस्ट्रेलिया, संयुक्त राज्य, यूएई, मिस्र और अन्य।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 txt1</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="b5c45cec36216ea8fbce38e8b8db37da99ffaed5" datatype="html">
+        <source>Assistants worldwide ready to help. We speak your language</source>
+        <target>विश्वभर मदद करने के लिए सहायक तैयार हैं। हम आपकी भाषा बोलते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">95,96</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 txt2</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="70951988d961e82a04a4ec9eea2a510386e1b6e6" datatype="html">
+        <source>23 hour live chat facility, emails and telephone support. Real technical support, without redirections</source>
+        <target>23 घंटे लाइव चैट सुविधा, ईमेल और टेलीफोन समर्थन। असली तकनीकी समर्थन, पुनर्निर्देशन के बिना।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 txt3</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="42417a2e3a21e8009ecb966e9f6ee909db192fc6" datatype="html">
+        <source>Secure</source>
+        <target>सुरक्षित</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 h4</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="abb8ae7ec71714dbaf90eed55479cdf83384b677" datatype="html">
+        <source>Full self-service Secure Client Area for your account managing, education and tools</source>
+        <target>आपके खाते प्रबंधन, शिक्षा और उपकरण के लिए पूरी स्व-सेवा सुरक्षित ग्राहक क्षेत्र।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/for-traders/for-traders.component.html</context>
+          <context context-type="linenumber">104,106</context>
+        </context-group>
+        <note priority="1" from="description">traders_sec3 txt4</note>
+        <note priority="1" from="meaning">traders</note>
+      </trans-unit>
+      <trans-unit id="4c2de0a38202f87ac17f5b6aa9110064e578b1fd" datatype="html">
+        <source>Holidays Schedule</source>
+        <target>छुट्टियों का कार्यक्रम</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/holidays-schedule/holidays-schedule.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">holidays_sec1 header</note>
+        <note priority="1" from="meaning">holidays</note>
+      </trans-unit>
+      <trans-unit id="4f284739cc9c4b0cac705d153c951b3d24fcd3d3" datatype="html">
+        <source>Active Traders Globally Choose eForex Every Day</source>
+        <target>प्रतिदिन वैश्विक रूप से सक्रिय व्यापारी ई-फ़ॉरेक्स का चयन करते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt1</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="4ae805e6b5a4c0b735560423fb8f3d73e31391ce" datatype="html">
+        <source>Partners Trust eForex With Their Business</source>
+        <target>साथी अपने व्यवसाय का भरोसा ई-फ़ॉरेक्स में रखते हैं</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt2</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="2260ee3de1fd9384eb747d4974f77f714612129c" datatype="html">
+        <source>Trading Accounts</source>
+        <target>व्यापार खाते</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt3</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="e73e5b5725c9b3647012c56435fcf81b4524346d" datatype="html">
+        <source>White Labels</source>
+        <target>व्हाइट लेबल</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt4</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="21a500b416a64a23a4d640f62543ef0fdaf138d5" datatype="html">
+        <source>Offices Worldwide</source>
+        <target>दुनियाभर में कार्यालय</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt5</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="0d80d4c54841d65845f62cdab4d78cff0d89a817" datatype="html">
+        <source>IB Aggregator in the World</source>
+        <target>विश्व में IB एग्रीगेटर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <note priority="1" from="description">index_sec2 txt6</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="058645f46ff454acd476773fb313dfd198fe2d5d" datatype="html">
+        <source>GET 30% BONUS FROM YOUR DEPOSIT</source>
+        <target>अपनी जमा राशि से 30% बोनस प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+        <note priority="1" from="description">index_bonus txt7</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="index_bonus_btn1" datatype="html">
+        <source>Learn More</source>
+        <target>और अधिक जानें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <note priority="1" from="meaning">home button 1</note>
+      </trans-unit>
+      <trans-unit id="207ec257b5f972565cedecd3a7a5fa9800764054" datatype="html">
+        <source>Welcome to the eForex Introducing Broker (IB) Program!</source>
+        <target>ई-फॉरेक्स इंट्रोड्यूसिंग ब्रोकर (आईबी) प्रोग्राम में आपका स्वागत है!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec1 header</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="9977652899f5162875178761b5ed4cc5d16b3b7b" datatype="html">
+        <source>Are you ready to tap into a lucrative opportunity that allows you to increase your potential sources of income while helping others navigate the exciting world of forex trading?</source>
+        <target>क्या आप तैयार हैं एक लाभकारी अवसर का उपयोग करने के लिए जो आपको आपकी कमाई के स्रोतों को बढ़ाने की अनुमति देता है, जबकि आप दूसरों को उत्साहजनक विदेशी मुद्रा व्यापार की दुनिया में मदद करते हैं?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec1 txt1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="60e9297fd42bfd4f0113113abb05dc7f82eeb7d0" datatype="html">
+        <source>Introducing the eForex Introducing Broker (IB) Program—a gateway to both financial growth and exceptional trading experiences for your referred clients.</source>
+        <target>ई-फॉरेक्स इंट्रोड्यूसिंग ब्रोकर (आईबी) प्रोग्राम का परिचय—आपके संदर्भित ग्राहकों के लिए वित्तीय विकास और अत्यद्भुत व्यापारिक अनुभव दोनों के लिए एक गेटवे।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec1 txt2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="ib_btn1" datatype="html">
+        <source>Become an IB</source>
+        <target>एक आईबी बनें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="meaning">ib button 1</note>
+      </trans-unit>
+      <trans-unit id="ib_btn2" datatype="html">
+        <source>IB Login</source>
+        <target>लॉगिन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="meaning">ib button 2</note>
+      </trans-unit>
+      <trans-unit id="501369eda6c33704590353d25ac91b72c3401280" datatype="html">
+        <source>Why Choose the eForex IB Program?</source>
+        <target>ई-फॉरेक्स आईबी प्रोग्राम को क्यों चुनें?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 header</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="7bce1de433d4720a4553f08eff1205abd0a740a7" datatype="html">
+        <source>Earn Together:</source>
+        <target>साथ में कमाएं:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 h1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="bbd2bca8262c5dc8cebf397126150f77d3e1ef71" datatype="html">
+        <source>When you introduce new traders, you&apos;re not just helping them – you&apos;re also creating an opportunity for yourself to make money</source>
+        <target>जब आप नए व्यापारी परिचय करवाते हैं, तो आप सिर्फ उनकी मदद ही नहीं कर रहे हैं – आप खुद के लिए पैसे कमाने का एक अवसर भी बना रहे हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txt1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="95d6456fa7ccf222877d04c494f81e41edc12db6" datatype="html">
+        <source>Daily Payouts up to $25 per standard lot – Your Business, Your Earnings</source>
+        <target>प्रति मानक लॉट $25 तक दैनिक भुगतान - आपका व्यवसाय, आपकी कमाई</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 hblue1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="18bc356ee64e3618f23f4f7495a109473a3abb04" datatype="html">
+        <source>Empowerment through Advanced Tools</source>
+        <target>उन्नत उपकरणों के माध्यम से सशक्तिकरण</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 img2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="a4b95907b062b5c16732d648fa4c6200fea40638" datatype="html">
+        <source>Empowerment through Advanced Tools:</source>
+        <target>उन्नत उपकरणों के माध्यम से सशक्तिकरण:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 h2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="d351808758122bf9364d411d692fd5254d473a38" datatype="html">
+        <source>Your referred traders will get access to a powerful trading platform with real-time information and tools to help them trade smarter</source>
+        <target>आपके संदर्भित व्यापारियों को एक शक्तिशाली व्यापार प्लेटफ़ॉर्म तक पहुँच मिलेगी जिसमें वास्तविक समय की जानकारी और उपकरण होंगे जो उन्हें और भी तरक्कीपरक व्यापार करने में मदद करेंगे।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txt2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="6c01c9bcd1178b25b5b0d3f9935d440f7920862c" datatype="html">
+        <source>Diverse Trading Opportunities</source>
+        <target>विविध व्यापारिक अवसर</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 img3</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="b35fed2453729e21ff8ccbb7390c8defdcfb55b4" datatype="html">
+        <source>Diverse Trading Opportunities:</source>
+        <target>विविध व्यापारिक अवसर:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 h3</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="7046a454a54e1a48ce1164d8c4c1e4715e1a4c7c" datatype="html">
+        <source>We offer many different ways to trade, so your referred traders can explore and find what works best for them</source>
+        <target>हम कई विभिन्न तरीकों के व्यापार का प्रस्ताव देते हैं, इसलिए आपके संदर्भित व्यापारी विवेकपूर्ण रूप से व्यापार करने के लिए उन्हें खोज सकते हैं और जान सकते हैं कि क्या उनके लिए सबसे अच्छा काम करता है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txt3</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="9257d05adab9293bfdf33dae0f38e8d624ac9c09" datatype="html">
+        <source>Your Earnings Grow with Your Clientele!</source>
+        <target>आपके ग्राहकों के साथ आपकी कमाई बढ़ती है!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 hblue2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="f2af52ffcb7f94367cf3e3adfc88a25292a42786" datatype="html">
+        <source>The more clients you bring in, the more you earn. We keep rewarding you as long as your clients trade with us</source>
+        <target>आप जितने अधिक ग्राहक लाएंगे, उतना अधिक कमाएंगे। जब तक आपके ग्राहक हमारे साथ व्यापार करते हैं, हम आपको पुरस्कृत करते रहेंगे</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txtblue1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="f52360a997d347306d3dff79e78dd8a9eeb6fefb" datatype="html">
+        <source>Support All Around</source>
+        <target>सारे दिशाओं में सहायता</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 img4</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="8e838cc1a2af7fe0cecb7de6c710ba1a2f2abcb8" datatype="html">
+        <source>Support All Around:</source>
+        <target>सारे दिशाओं में सहायता:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 h4</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="e31471f79a83b328ac135318a0a66b7796b1a3f1" datatype="html">
+        <source>We&apos;re here to help you and your referred traders, making sure everyone gets the assistance they need</source>
+        <target>हम यहाँ हैं आपकी मदद करने के लिए और आपके संदर्भित व्यापारियों की मदद करने के लिए, सुनिश्चित करते हैं कि सभी को उनकी आवश्यकताओं की सहायता मिलती है।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txt4</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="1687be6f8e88e66e90ac12045a102390a276bda4" datatype="html">
+        <source>Effective Marketing Resources</source>
+        <target>प्रभावी विपणन संसाधन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 img5</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="455c8224f54f913552d3fc1793059eddb439d994" datatype="html">
+        <source>Effective Marketing Resources:</source>
+        <target>प्रभावी विपणन संसाधन:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 h5</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="51136b50f2f81ff3ce4df2243941d5f13c3b8418" datatype="html">
+        <source>Use our materials to show others the benefits of trading and attract more traders to join your network</source>
+        <target>हमारे सामग्री का उपयोग व्यापार के लाभों को दिखाने और अधिक व्यापारीयों को अपने नेटवर्क में शामिल करने के लिए करें।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec2 txt5</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="2139001cd18c8385e73392c721bb4e9dc6f8c68f" datatype="html">
+        <source>How Does the Introducing Broker Business Work?</source>
+        <target>परिचयक ब्रोकर व्यवसाय कैसे काम करता है?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 header</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="a3120cde5578628ca7f02f4d1e474fa3c0edc8a7" datatype="html">
+        <source>Step 1</source>
+        <target>कदम 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">118</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="4602df3659f9c89fffdb4fdecb18ac5261785d64" datatype="html">
+        <source>CONTACT US</source>
+        <target>हमसे संपर्क करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 h1</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="6b2089af1286037f960d227c39aac4619b521cd4" datatype="html">
+        <source>You or your firm would have to contact our sales department or send an email to <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;mailto:support@eforex.com&quot; aria-label=&quot;mail support@eforex.com&quot;&gt;"/>support@eforex.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, eForex employees speak five major languages - English, Arabic, Russian and Spanish - and will answer your questions.</source>
+        <target>आप या आपकी कंपनी को हमारे बिक्री विभाग से संपर्क करना होगा या  support@eforex.com, पर ईमेल भेजना होगा, eForex के कर्मचारी पांच मुख्य भाषाओं - अंग्रेजी, अरबी, रूसी और स्पेनिश - में बात करते हैं और आपके सवालों का उत्तर देंगे।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="47611766aa9992d9d7d77a69a2c71119d59acc98" datatype="html">
+        <source>Step 2</source>
+        <target>कदम 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">128</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt3</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="a92ee39edf9bdd3748836a13c5103ab3c4ac6bd9" datatype="html">
+        <source>IB AGREEMENT</source>
+        <target>आईबी समझौता</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 h2</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="bee764006a4a4a5b70abbcf34446fea2ea6214cc" datatype="html">
+        <source>Sign up as an IB through the Private Cabinet, sign the electronic agreement and get approved in just a few minutes. You will get your unique eForex IB Number, a Certificate signed by eForex, option to create your own professional website hosted by eForex, and your own client registration link that will tag accounts under your IB.</source>
+        <target>निजी कैबिनेट के माध्यम से एक आईबी के रूप में पंजीकरण करें, इलेक्ट्रॉनिक समझौता करें और कुछ ही मिनटों में मंजूरी प्राप्त करें। आपको आपका अद्वितीय ई-फ़ॉरेक्स आईबी नंबर मिलेगा, एक प्रमाणपत्र जिसे ई-फ़ॉरेक्स द्वारा हस्ताक्षरित किया गया है, ई-फ़ॉरेक्स द्वारा होस्ट किए जाने वाली अपनी पेशेवर वेबसाइट बनाने का विकल्प, और आपका खुद का ग्राहक पंजीकरण लिंक जो आपके आईबी के तहत खातों को टैग करेगा।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt4</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="a25f9afbbaeeadb9ba7311cb7d3ab763278e89de" datatype="html">
+        <source>Step 3</source>
+        <target>कदम 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt5</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="d0b0e920fdca3242a3a64f328727fdcc655aafa2" datatype="html">
+        <source>GET PAID</source>
+        <target>भुगतान प्राप्त करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 h3</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="051783770a7a03bdc7f948083ff482e35e9bc9ee" datatype="html">
+        <source>eForex offers online rebates and commissions payments to all IBs. You don’t have to wait till the end of the month to get paid.</source>
+        <target>सभी आईबी को ऑनलाइन रिबेट और कमीशन के भुगतान की सुविधा प्रदान करता है। आपको महीने के अंत तक प्रतीक्षा नहीं करनी होगी कि आपको भुगतान मिलेगा।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt6</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="2936357507a1d3362bd5d41f6ab9b913ce1864be" datatype="html">
+        <source>You and/or your firm will be paid from eForex on each trade your customer makes. (According to your IB schedule). As an IB of eForex, you will see how many trades your customers made, what financial instruments they traded, and how much you are getting paid, right from your Private Cabinet. All numbers are taken from the IB agreement.</source>
+        <target>आप और/या आपकी कंपनी को आपके ग्राहक के प्रत्येक व्यापार पर eForex से भुगतान किया जाएगा। (आपकी आईबी अनुसूची के अनुसार)। eForex के आईबी के रूप में, आप देखेंगे कि आपके ग्राहकों ने कित ने व्यापार किए, उन्होंने किन वित्तीय उपकरणों का व्यापार किया, और आपको कितना भुगतान मिल रहा है, आपके निजी कैबिनेट से सीधे देख सकेंगे। सभी आंकड़े आईबी समझौते से लिए लिए गए हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/ib/ib.component.html</context>
+          <context context-type="linenumber">142</context>
+        </context-group>
+        <note priority="1" from="description">ib_sec3 txt7</note>
+        <note priority="1" from="meaning">ib</note>
+      </trans-unit>
+      <trans-unit id="9a22f3be4c2bf27c25fbaee6811e5d7285d1889d" datatype="html">
+        <source>Forex Trading Conditions</source>
+        <target>फ़ॉरेक्स व्यापार शर्तें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/trading-conditions/trading-conditions.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">trading header</note>
+        <note priority="1" from="meaning">trading-condition</note>
+      </trans-unit>
+      <trans-unit id="0ec1e0e6edbe604cdb6c5418771cefa8764becd8" datatype="html">
+        <source>Disclaimer</source>
+        <target>अस्वीकरण</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">footer_sec txt1</note>
+        <note priority="1" from="meaning">footer</note>
+      </trans-unit>
+      <trans-unit id="c4f43e02ba14ee0ac839477e8f8d4a69bf6e3202" datatype="html">
+        <source>Risk Warning: CFDs are margined products, it is possible to lose more than your initial margin deposit or credit allocation as well as any variation margin that you may be required to deposit from time to time. Therefore, you should only speculate with money that you can afford to lose. CFD trading may not be suitable for all customers, therefore, please ensure that you fully understand the risks involved and seek independent advice if necessary and prior to entering into such transactions. When trading CFDs with eForex, you are merely trading on the outcome of a financial instrument and therefore do not take delivery of any underlying instrument, nor are you entitled to any dividends payable or any other benefits related to the same. Please be advised, the services and products described on this website are not offered to citizens of E.U. member states, The United States, Canada, Japan, Turkey and Australia. eForex and its products and services offered on the site <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://eforex.com/&quot; style=&quot;color: white;text-decoration: underline;&quot; rel=&quot;dofollow&quot; aria-label=&quot;EFOREX&quot;&gt;"/>www.eforex.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> are NOT registered or regulated by any U.S. or Canadian regulator and not regulated by FINRA, SEC, NFA or CFTC. eForex reserves the right to retroactively charge storage fees for positions held for extended periods of time as stipulated by the market liquidity provider. eForex reserves the right to amend and upgrade its policies, terms and conditions. The Most up-to-date and valid company policies are published on the eForex website. Using any services of eForex, Clients and Partners agree with the current terms and conditions provided in the company‘s agreements and legal documents. Clients and Partners are considered aware of all risks concerning financial services and charges applied by eForex.</source>
+        <target>जोखिम चेतावनी: CFDs मार्जिन प्रोडक्ट्स हैं, इसमें आपके प्रारंभिक मार्जिन जमा या क्रेडिट आवंटन के अतिरिक्त आपके वार्तमान मार्जिन जमा या समय-समय पर जमा करने की आवश्यकता पड़ सकती है। इसलिए, आपको उन पैसों से मात कर सकने के साथ ही विचार करके ही स्पेक्युलेट करना चाहिए जिन्हें आप कर सकते हैं। CFD व्यापार सभी ग्राहकों के लिए उपयुक्त नहीं हो सकता है, इसलिए कृपया सुनिश्चित करें कि आप पूरी तरह से जोखिमों को समझते हैं और यदि आवश्यक हो तो स्वतंत्र सलाह प्राप्त करें और ऐसे सौदों में प्रवेश करने से पहले। eForex के साथ CFD व्यापार करते समय, आप केवल एक वित्तीय उपकरण के परिणाम पर व्यापार कर रहे हैं और इसलिए किसी भी आधारित उपकरण की वितरण नहीं करते हैं, और न ही आपको कोई भी वित्तीय लाभ या सम्बंधित लाभ प्राप्त होता है। कृपया ध्यान दें, इस वेबसाइट पर वर्णित सेवाएं और उत्पाद यूरोपीय संघ के सभी नागरिकों, संयुक्त राज्य अमेरिका, कनाडा, जापान, तुर्की और ऑस्ट्रेलिया के नागरिकों को प्रदान नहीं की जाती हैं। eForex और उसके उत्पाद और सेवाएं जो <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://eforex.com/&quot; style=&quot;color: white;text-decoration: underline;&quot; rel=&quot;dofollow&quot; aria-label=&quot;EFOREX&quot;&gt;"/>www.eforex.com<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> साइट पर प्रस्तुत की जाती हैं, किसी भी यू.एस. या कैनेडियन नियामक द्वारा पंजीकृत या नियामित नहीं हैं और FINRA, SEC, NFA या CFTC द्वारा नियामित नहीं हैं। eForex अनुसार बाजार निवेशता प्रदाता द्वारा लंबे समय तक रखी गई पोजिशनों के लिए स्टोरेज शुल्क पूर्वस्थिति से आवश्यकता होने पर पूर्वस्थिति से शुल्क लगाने का अधिकार सुरक्षित रखता है। eForex के पास नीतियों, शर्तों और नियमों को संशोधित और उन्नत करने का अधिकार है। सबसे अद्यतन और मान्य कंपनी नीतियाँ eForex वेबसाइट पर प्रकाशित की जाती हैं। eForex की किसी भी सेवाओं का उपयोग करके, ग्राहक और साथी कंपनियां कंपनी की समझौतों और कानूनी दस्तावेजों में प्रादिक्षिक शर्तों और शर्तों से सहमत होते हैं। ग्राहक और साथी कंपनियों को ईफोरेक्स द्वारा वित्तीय सेवाओं और शुल्कों के सभी जोखिमों के बारे में जागरूक होने के रूप में माना जाता है और eForex द्वारा लागू की गई नीतियों को समझते हैं।</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">footer_sec txt2</note>
+        <note priority="1" from="meaning">footer</note>
+      </trans-unit>
+      <trans-unit id="632501d429203de93fdb99e7c71696de88cfcc57" datatype="html">
+        <source>All Rights Reserved. 1988-<x id="INTERPOLATION" equiv-text="{{currentYear}}"/></source>
+        <target>सभी अधिकार सुरक्षित। 1988-<x id="INTERPOLATION" equiv-text="{{currentYear}}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">footer_sec txt3</note>
+        <note priority="1" from="meaning">footer</note>
+      </trans-unit>
+      <trans-unit id="header_btn1" datatype="html">
+        <source>Sign Up</source>
+        <target>साइन अप</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/header/header.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="meaning">header button 1</note>
+      </trans-unit>
+      <trans-unit id="header_btn2" datatype="html">
+        <source>Login</source>
+        <target>लॉग इन</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/header/header.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/header/header.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="meaning">header button 2</note>
+      </trans-unit>
+      <trans-unit id="229a82ff6ca1baa426d70fc840f49e2d3c895568" datatype="html">
+        <source>Contact Us</source>
+        <target>हमसे संपर्क करें</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/menu-footer-list/menu-footer-list.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">cat_name h1</note>
+        <note priority="1" from="meaning">menu-footer</note>
+      </trans-unit>
+      <trans-unit id="dbf00875dd5cb443e936ead871f580c79b654fdf">
+        <source>Thank you, your message has been sent.</source>
+        <target>धन्यवाद, आपका संदेश भेज दिया गया है।</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

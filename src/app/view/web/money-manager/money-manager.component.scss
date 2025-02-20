@@ -1,0 +1,103 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.mm_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+  }
+  &_indent{
+    margin-top: $indent_pc;
+  }
+  .contentCenter_big{
+    background-color: white;
+    box-sizing: border-box;
+    padding:$indent_pc 0;
+    margin-top: $indent_pc;
+  }
+}
+
+.mm_sec2{
+  padding:$indent_big 0 $indent_pc 0;
+  overflow: hidden;
+  @include respond_to(tab) {
+    padding:$indent_tab 0;
+  }
+  &_width{
+    max-width:670px;
+  }
+  .width635,&_width{
+    @include respond_to(mid_pc) {
+      max-width:520px;
+    }
+    @include respond_to(tab) {
+      max-width:100%;
+    }
+  }
+  &_img{
+    position: absolute;
+    width: 41%;
+    padding-top: 44.8%;
+
+    right: 0;
+    top: -300px;
+    @include respond_to(tab) {
+      display: none;
+    }
+    &_indent{
+      position: absolute;
+      top:0;
+      width: 100%;
+      height:100%;
+      left:0;
+      overflow: hidden;
+    }
+    &_part1,&_part2,&_part3{
+      height:33%;
+    }
+  }
+  &_box{
+    margin-top:$indent_big;
+    @include respond_to(tab) {
+      margin-top:$indent_tab;
+    }
+    &_h{
+      font-size: 48px;
+
+    }
+    &_h,&_txt{
+      @include respond_to(mob) {
+        text-align: center;
+      }
+    }
+  }
+  &_urlbox{
+    margin-top:$indent_pc;
+    @include respond_to(tab) {
+      margin-top:$indent_tab
+    }
+    &_col{
+      padding:50px;
+      border: solid 2px rgba(9, 28, 39,0.1);
+      @include respond_to(tab) {
+        margin-top:$indent_tab;
+        padding:$indent_tab;
+      }
+      &_h,&_btn,&_txt{
+        text-align: center;
+      }
+      &_txt{
+        opacity: 0.3;
+        font-size: 12px;
+      }
+    }
+    & &_col:first-child{
+      margin-top: 0;
+    }
+  }
+
+}

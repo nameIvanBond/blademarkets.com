@@ -1,0 +1,32 @@
+<div class="faq_sec1 active_animate">
+  <div class="fadeInUp animate duration_05">
+    <div class="contentCenter ">
+      <h1 class="faq_sec1_h txt_white">FAQ</h1>
+      <div class="faq">
+        <div *ngIf="!loader.loading" [ngClass]="toggle ? 'openMenu' : ''" class="faq_box" fxLayout="row wrap" fxLayoutAlign="space-between start">
+          <div fxFlex="100"  class="faq_box_mobTop">
+            <mat-icon  (click)="toggle=!toggle" class="faq_box_mobTop_btn">menu</mat-icon>
+          </div>
+
+          <div class="faq_box_left"   fxFlex="100" fxFlex.gt-sm="40" >
+            <div class="faq_box_left_align">
+              <mat-icon (click)="toggle=!toggle" class="faq_box_left_close">close</mat-icon>
+            </div>
+            <div class="faq_box_left_menu">
+              <a routerLink="{{item.url}}" class="faq_box_left_menu_items" *ngFor="let item of rootMenuView"  [ngClass]="{'active_menu': item.selected}" (click)="toggle=false">{{item.num}}. {{item.name}}</a>
+            </div>
+          </div>
+
+          <div class="faq_box_right" (click)="toggle=false" fxFlex="100" fxFlex.gt-sm="58"  >
+            <h2 class="faq_box_right_h">{{header}}</h2>
+            <div class="faq_box_right_items" *ngFor="let item_i of rootItems">
+              <a routerLink="{{item_i.url}}"  class="faq_box_right_items_link" [ngClass]="{'active_questions': item_i.selected}"> {{item_i.name}}</a>
+              <p class="faq_box_right_items_txt" [ngClass]="{'activated_q': item_i.selected}" [innerHtml]="item_i.text"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

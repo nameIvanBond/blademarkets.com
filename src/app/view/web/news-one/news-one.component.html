@@ -1,0 +1,14 @@
+<div class="news_conent active_animate">
+  <div class="">
+    <div class="contentCenter ">
+      <h1 class="news_conent_h txt_white fadeIn animate delay_02">{{news?.title}}</h1>
+      <div class="news_conent_info">
+        <div fxLayout="row wrap" fxLayoutAlign="end start">
+          <a routerLink="/forex-news.html" class="news_conent_info_link">Read All News &rarr;</a>
+        </div>
+        <img width="" class="fadeInUp animate delay_03" src="https://news.eforex.com{{gallery}}" alt="{{news?.title}}">
+        <div class="news_conent_info_txt fadeInUp animate duration_07" [innerHtml]="curent?.root"></div>
+      </div>
+    </div>
+  </div>
+</div>

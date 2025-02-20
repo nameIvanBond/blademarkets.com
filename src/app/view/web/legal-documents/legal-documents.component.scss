@@ -1,0 +1,110 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.legal_sec1{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+    @include respond_to(tab) {
+      text-align: left;
+    }
+  }
+  &_info{
+    margin-top:$indent_pc;
+    padding:$indent_pc 100px;
+    background-color: white;
+    @include respond_to(tab) {
+      padding: 11% 3%;
+    }
+    &_title{
+      font-family: "NotoSerif", "Arial";
+    }
+    &_box{
+      margin-top:$indent_mid;
+      @include respond_to(tab) {
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+
+.card {
+  min-height:240px;
+  perspective: 1000px;
+  @include respond_to(mid_pc) {
+    min-height:260px;
+  }
+  @include respond_to(tab) {
+    min-height: 220px;
+    margin-top:$indent_mob;
+  }
+  &_img{
+    @include box_ico('/assets/legal/pdf.svg', 66px, 88px);
+    margin:0 auto;
+  }
+  &_txt{
+    text-align: center;
+    margin-top: $indent_mob_small;
+  }
+}
+.front, .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  transition: 0.4s;
+  backface-visibility: hidden;
+  background-color: #fff;
+  padding: 24px 16px;
+  box-sizing: border-box;
+}
+.front{
+  border: solid 2px #9d968c;
+}
+.back {
+  transform: rotateY(180deg);
+  background-color: rgb(157, 150, 140);
+    &_sep{
+      width: 1px;
+      height: 14px;
+      margin: 17px 15.5px;
+      opacity: 0.5;
+      background-color: rgb(255, 255, 255);
+    }
+    &_view{
+      @include box_ico('/assets/legal/view.svg', 48px, 48px);
+    }
+    &_download{
+      @include box_ico('/assets/legal/download.svg', 48px, 47px);
+    }
+    &_view,&_download{
+      display: block;
+    }
+
+}
+.card:hover .front {
+  transform: rotateY(180deg);}
+.card:hover .back {
+  transform: rotateY(360deg);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

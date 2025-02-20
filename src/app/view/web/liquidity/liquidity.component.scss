@@ -1,0 +1,89 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+.liq_sec1{
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  background-color: #091c27;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  .contentCenter{
+    .liq_sec1_h{
+      margin-bottom:$indent_pc;
+      @include respond_to(tab) {
+        margin-bottom:$indent_tab;
+      }
+    }
+  }
+  .contentCenter_min {
+    .liq_sec1_h {
+      margin-top: $indent_pc;
+      @include respond_to(tab) {
+        margin-top: $indent_tab;
+      }
+    }
+  }
+  &_h{
+    text-align: center;
+  }
+
+  .step_box{
+    margin-top:$indent_pc;
+    @include respond_to(tab) {
+      margin-top:$indent_tab;
+    }
+  }
+  &_box{
+    &_col{
+      background-color: white;
+      padding:$indent_mob 108px;
+      @include respond_to(tab) {
+        padding:$indent_mob;
+      }
+      &_h{
+        text-align: center;
+      }
+      &_case {
+        margin-top: $indent_mob;
+
+        div{
+          padding:24px;
+          box-sizing: border-box;
+          background-color: rgba(20, 28, 37, 0.02);
+        }
+        div:nth-child(odd){
+          background-color: rgba(20, 28, 37, 0.1);
+        }
+        &_s1{
+          min-height: 144px;
+        }
+        &_s2{
+          min-height: 144px;
+        }
+        &_s3{
+          min-height: 192px;
+        }
+        &_s4{
+          min-height: 120px;
+        }
+        &_s5{
+          min-height: 120px;
+        }
+        &_s1,&_s2,&_s3,&_s4,&_s5{
+          @include respond_to(tab) {
+            min-height:auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+.liq_sec2{
+  padding:$indent_pc 0;
+  @include respond_to(tab) {
+    padding:$indent_tab 0;
+  }
+}

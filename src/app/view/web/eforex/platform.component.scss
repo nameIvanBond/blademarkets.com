@@ -1,0 +1,135 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+.pl_sec1{
+
+  padding: $h_t_indent_pc 0 $indent_tab + $indent_tab 0;
+  background-color: #091c27;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  overflow-x: clip;
+
+  &_btn{
+    & a:first-child{
+      margin-right: 24px;
+      @include respond_to(mob) {
+        margin: 0 0 $indent_mob 0;
+      }
+    }
+  }
+  &_img{
+    position: absolute;
+    width: 60%;
+    right: -5%;
+    padding-top: 4%;
+    @include respond_to(pc) {
+      width: 56%;
+      right: -1%;
+      padding-top: 10%;
+    }
+    @include respond_to(mid_pc) {
+      width: 44%;
+      right: 0;
+      padding-top: 0;
+    }
+    @include respond_to(tab) {
+      display: none;
+    }
+  }
+}
+
+
+.pl_sec2,.pl_sec3{
+  padding: $indent_tab 0;
+
+  .contentCenter{
+
+
+    box-sizing: border-box;
+   /* @include respond_to(tab) {
+      padding: $indent_mob 2%;
+    }*/
+  }
+
+  &_link_ios{
+    @include box_ico('/assets/platform/app-store.svg', 120px, 41px);
+  }
+  &_link_andr{
+    margin-left: $indent_mob;
+    @include box_ico('/assets/platform/android.svg', 137px, 41px);
+    @include respond_to(tab) {
+      margin-left:0;
+      margin-top: $indent_mob;
+    }
+  }
+  &_link_andr, &_link_ios{
+    &:hover {
+      opacity: 0.75;
+    }
+  }
+
+}
+.pl_sec3 {
+  padding: $indent_tab+$indent_tab 0;
+  @include respond_to(tab) {
+    padding: $indent_pc  0;
+  }
+
+}
+
+
+.pl_sec4{
+  padding-top: $indent_pc;
+
+ /* @include respond_to(tab) {
+    margin-top:$indent_tab;
+  }*/
+  &_col{
+    background-color: #FFFFFF;
+    padding: 48px;
+    @include respond_to(tab) {
+      padding: $indent_mob 2%;
+    }
+  }
+  .contentCenter &_col:first-child{
+    @include respond_to(tab) {
+      margin-bottom: $indent_mob;
+    }
+  }
+}
+
+.pl_sec5{
+  padding: $indent_pc 0;
+
+  &_col{
+    @include respond_to(tab) {
+      margin-top:$indent_mob;
+    }
+    &_h{
+      font-size: 40px;
+    }
+  }
+}
+
+.pl_bg_black{
+  background-color: #091c27;
+
+}
+
+.contact_sec{
+  padding-bottom: $indent_pc;
+  @include respond_to(tab) {
+
+  }
+  &_bg{
+    height:575px;
+    @include img_opt();
+    @include bg_img("/assets/home/contact_us.webp");
+    @include ios("/assets/home/contact_us@2x.webp", "2");
+    @include respond_to(tab) {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,76 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+.news_sec1{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+  }
+  &_info{
+    min-height: 1000px;
+    margin-top:$indent_pc;
+    padding:50px 100px;
+    background-color: white;
+    @include respond_to(tab) {
+      padding: 11% 3%;
+    }
+    &_box{
+
+      &_col{
+        margin-top:$indent_tab;
+        position: relative;
+        transition: all 0.7s ease;
+        &_img{
+          height:215px;
+          @include img_opt();
+          background-size: 135%;
+          transition: all 0.7s ease;
+        }
+        &_h{
+          min-height:105px;
+          font-family: 'NotoSerif', 'Arial';
+        }
+
+        &_link{
+          &::before{
+            position: absolute;
+            left:0;
+            top:0;
+            width:100%;
+            height:100%;
+            content: "";
+            z-index:10;
+          }
+        }
+        &_txt2{
+          opacity: 0.3;
+          font-size: 12px;
+          text-align: right;
+          color: #091c27;
+        }
+        &_h,&_txt1{
+          transition: all 0.3s ease;
+        }
+      }
+    }
+  }
+}
+
+.news_sec1_info_box_col:hover {
+  .news_sec1_info_box_col_img {
+    background-size: 105%;
+  }
+  .news_sec1_info_box_col_h,
+  .news_sec1_info_box_col_txt1{
+    opacity: 0.5;
+  }
+
+}
+
+

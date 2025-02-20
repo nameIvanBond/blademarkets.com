@@ -1,0 +1,161 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+
+.faq_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  overflow: hidden;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+    @include respond_to(tab) {
+      text-align: left;
+    }
+  }
+}
+
+.faq{
+
+  margin-top: $indent_pc;
+  @include respond_to(tab) {
+    margin-top: $indent_tab;
+  }
+  &_box{
+    position:relative;
+    background-color: white;
+    padding: 107px;
+    @include respond_to(mid_pc) {
+      padding:50px;
+    }
+    @include respond_to(tab) {
+      padding:0;
+    }
+    &_mobTop{
+      display: none;
+      text-align: right;
+      background-color: rgba(20, 28, 37, 0.02);
+      transition: all 0.5s ease;
+      @include respond_to(tab) {
+        display: block;
+      }
+      &_btn{
+        cursor: pointer;
+        padding: 10px;
+      }
+    }
+
+    &_left{
+      background-color: white;
+      transition: all 0.5s ease;
+      @include respond_to(tab) {
+        position: absolute;
+        right:-500px;
+        top:0;
+        z-index: 10;
+        padding: 10px;
+        box-shadow: 2px -1px 5px -1px black;
+      }
+      &_align{
+        text-align: right;
+        display: none;
+        @include respond_to(tab) {
+          display: block;
+        }
+      }
+      &_close{
+        cursor: pointer;
+      }
+      &_menu{
+        &_items {
+          padding: 16px 24px;
+          cursor: pointer;
+          display: block;
+          list-style-type: none;
+          margin: 8px 0;
+          background-color: #fafafb;
+          font-size: 24px;
+          font-weight: 500;
+          text-decoration: none;
+          color: rgba(20, 28, 37, 0.4);
+          @include respond_to(tab) {
+            font-size: 22px;
+          }
+          @include respond_to(mob) {
+            font-size: 20px;
+          }
+        }
+      }
+      .faq_box_left_menu_items:hover,a.active_menu{
+        background-color: rgba(20, 28, 37, 0.1);
+        color:rgba(20, 28, 37, 1);
+      }
+    }
+
+
+    &_right{
+      padding:10px 24px;
+      background-color: rgba(20, 28, 37, 0.02);
+      margin: 8px;
+      transition: all 0.5s ease;
+      @include respond_to(tab) {
+        margin: 0;
+      }
+      &_h{
+        display:none;
+        @include respond_to(tab) {
+          font-family: "Montserrat", "Arial";
+          display: block;
+          margin-bottom: $indent_mob;
+        }
+      }
+      &_items{
+        padding:8px 0;
+        &_link{
+          color: #091c27;
+          font-family: 'NotoSerif', 'Arial';
+          font-weight: 800;
+          font-size: 24px;
+          color: rgba(20, 28, 37, 0.4);
+          @include respond_to(tab) {
+            font-size: 22px;
+          }
+          @include respond_to(mob) {
+            font-size: 20px;
+          }
+          &:hover{
+            background:none;
+            color: rgba(20, 28, 37, 1);
+          }
+        }
+        &_txt{
+          margin-bottom: 10px;
+          margin-top: 8px;
+          display:none;
+        }
+      }
+    }
+
+  }
+  .openMenu .faq_box_left{
+    right:0;
+  }
+  .openMenu {
+    .faq_box_mobTop,.faq_box_right{
+      @include respond_to(tab) {
+        filter: blur(3px);
+      }
+    }
+  }
+  .activated_q{
+    display:block;
+    color: rgba(20, 28, 37, 1);
+  }
+  .active_questions{
+    color: rgba(20, 28, 37, 1);
+  }
+}
+

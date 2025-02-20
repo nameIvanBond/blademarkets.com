@@ -1,0 +1,48 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.mobile_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+
+}
+
+.mobile_sec2{
+  padding:$indent_pc 0;
+}
+
+.mobile_sec1,.mobile_sec2{
+  &_btn{
+    margin-top:$indent_tab;
+    &_img1{
+      width:135px;
+      height:40px;
+      transition: all 0.3s ease;
+      &:hover{
+        opacity: 0.75;
+      }
+    }
+    &_img2{
+      width:96px;
+      height:96px;
+      @include respond_to(tab) {
+        display: none;
+      }
+    }
+    .ind_right{
+      margin-right:30px;
+      @include respond_to(tab) {
+        margin: 0;
+      }
+    }
+  }
+}
+
+
+
+
+
+

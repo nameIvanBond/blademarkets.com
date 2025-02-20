@@ -1,0 +1,48 @@
+@import '~@angular/material/theming';
+@import 'src/scss/themes/light-theme';
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker hue.
+$app-primary: mat-palette($mat-indigo);
+$app-accent: mat-palette($mat-green);
+
+// The warn palette is optional (defaults to red).
+$app-warn: mat-palette($mat-red);
+
+// Create the theme object (a Sass map containing all of the palettes).
+$app-theme: mat-light-theme($app-primary, $app-accent, $app-warn);
+
+:host {
+  display: block;
+  outline: none;
+
+  .mat-list-item.active {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+}
+
+.mat-list-item {
+  padding: 8px 0;
+  @include respond_to(tab){
+    width:auto;
+  }
+  .routeIcon {
+    margin-right: 40px;
+  }
+}
+
+
+.arrow {
+  width:auto;
+  margin-right: -15px;
+}
+
+
+
+.my-light-theme mat-nav-list app-menu-list-item .mat-list-item.mat-focus-indicator:hover{
+  background-color: red !important;
+}
+

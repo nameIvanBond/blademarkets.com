@@ -1,0 +1,265 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.index_sec1{
+
+  height: 100%;
+  width: 100%;
+  position: relative;
+  left: 0;
+  top:0;
+  background-color: #0a1c28;
+  padding-top: 4%;
+  /*min-height: 750px;*/
+  /*padding-top: 9%;*/
+  box-sizing: border-box;
+  overflow: hidden;
+  z-index:-1;
+  @include respond_to(tab) {
+    min-height: auto;
+  }
+  &_bg{
+    @include img_opt();
+    background-size: contain;
+    @include bg_img("/assets/home/home.webp");
+    transform: perspective(1000px) scaleZ(0.9) rotateX(20deg);
+
+    padding-top: 34%;
+    border-radius: 6px;
+    position: relative;
+    box-shadow: 0 50px 159px 0 rgba(0,0,0,0.4);
+    width: 60%;
+    @include respond_to(tab) {
+      padding-top: 48%;
+      width: 85%;
+    }
+    @include respond_to(mob) {
+       @include bg_img("/assets/home/eforex_mobile_hero.webp");
+      padding-top: 0;
+      width: 100%;
+      height: 100%;
+      margin-top: 25%;
+      transform:none;
+     }
+
+   /* max-width: 1085px;*/
+  /*  padding-top: 50%;
+    border-radius: 6px;
+    position: relative;
+    box-shadow: 0 100px 100px -60px black;
+    max-width: 88.8%;*/
+  /*  width: 67%;
+    height: 72.5%;*/
+    &_more1,&_more2,&_more3{
+      @include img_opt();
+      background-size: contain;
+      position: absolute;
+      @include respond_to(mob) {
+        display: none;
+      }
+
+    }
+    &_more1{
+      @include bg_img("/assets/home/worspace.webp");
+      left: 9.7%;
+      top: 0.8%;
+      width: 18%;
+      height: 38%;
+      filter: drop-shadow(0px 22px 6px #141e2a);
+    }
+    &_more2{
+      @include bg_img("/assets/home/modify.webp");
+      left: 76.5%;
+      top: -7%;
+      width: 17.3%;
+      height: 53.3%;
+      box-shadow: 1px 1px 77px -13px #000000;
+    }
+    &_more3{
+      @include bg_img("/assets/home/new-order.webp");
+      left: 41%;
+      top: 21%;
+      width: 19.1%;
+      height: 57%;
+      box-shadow: 1px 1px 77px -13px #000000;
+    }
+  }
+}
+
+/*
+.index_sec1{
+
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top:0;
+  @include img_opt();
+  @include bg_img("/assets/home/home.webp");
+  @include ios("/assets/home/home@2x.webp", "2");
+}
+*/
+
+
+
+/*
+.index_sec1{
+  position: absolute;
+  left:0;
+  bottom:0;
+  background-color: #071822;
+  width: 100%;
+  height: 90%;
+  padding-top: 10%;
+  overflow: hidden;
+
+video{
+  width: 100%;
+  height: 100%;
+}
+
+}
+*/
+
+.index_sec2{
+  padding:$indent_pc 0;
+}
+
+
+.index_sec2_old{
+  &_boxImg{
+    position: relative;
+  }
+  &_imgLeft,&_imgRight{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    background-color: white;
+    right:0;
+    top:0;
+    @include respond_to(tab) {
+      display: none;
+    }
+  }
+  &_imgRight{
+    left:0;
+  }
+  &_iTop{
+    @include respond_to(tab) {
+      margin-top:$indent_mob
+    }
+  }
+}
+
+
+
+
+.index_sec2,.index_sec4,.index_sec6{
+  padding: $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $indent_tab 0;
+  }
+}
+
+.index_sec3,.index_sec5{
+  padding: $indent_pc 0;
+  background-color: #091c27;
+  @include respond_to(tab) {
+    padding: $indent_tab 0;
+  }
+}
+.index_sec3{
+  &_top{
+    min-height: 155px;
+    @include respond_to(tab) {
+      min-height: auto;
+    }
+  }
+  &_box{
+    margin-top:80px;
+    position: relative;
+    height: 632px;
+    @include respond_to(tab) {
+      margin-top:$indent_mob;
+      height: auto;
+    }
+    &_img1,&_img2,&_imgD1,&_imgD2{
+      position: absolute;
+      width: 49%;
+      top: 0;
+      bottom: auto;
+      height: 632px;
+      left:-100%;
+      background-repeat: no-repeat;
+      /*background-position: 50%;*/
+      background-size: cover;
+      background-position: center top;
+      @include respond_to(mid_pc) {
+        width: 41%;
+      }
+      @include respond_to(tab) {
+        position: relative;
+        width: 96%;
+        height:350px;
+        margin:$indent_mob 2% 0 2%;
+        top: auto;
+        bottom: 0;
+      }
+    }
+    &_img1,&_img2{
+      z-index:3;
+      left:0;
+    }
+    &_imgD1,&_imgD2{
+      z-index: 5;
+      left:0;
+      @include respond_to(tab) {
+        display: none;
+      }
+    }
+
+    &_btn{
+      text-align: left;
+    }
+  }
+
+}
+.eforexImg1{
+  @include bg_img("/assets/home/eforex-1.webp");
+  @include ios("/assets/home/eforex-1@2x.webp", "2");
+
+
+}
+
+
+.index_sec5{
+ &_link{
+   text-decoration: underline;
+   &:hover{
+     opacity: 0.75;
+     text-decoration: none;
+   }
+ }
+}
+
+
+.index_bonus{
+  background-color: #0a1c28;
+   padding: $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $indent_tab 0;
+  }
+  .contentCenter{
+    @include bg_img("/assets/home/index_bonus.webp");
+    @include ios("/assets/home/index_bonus@2x.webp", "2");
+    height: 484px;
+    padding: 0 104px;
+    @include respond_to(tab) {
+      height: auto;
+      padding: $indent_tab 3%;
+      background-position: right;
+    }
+  }
+}
+
+

@@ -1,0 +1,33 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+
+.lang_box{
+  margin-bottom: $indent_mob_small;
+  @include respond_to(tab) {
+    margin: 0;
+  }
+}
+.menu_lang{
+  /*  margin-left:20px;*/
+  margin-inline-start: 20px;
+  padding-inline-start: 23px;
+  position: relative;
+  @include respond_to(tab) {
+    display: none;
+  }
+  &::before{
+    position: absolute;
+    content: "";
+    @include box_ico('/assets/svg/earth.svg', 15px, 15px);
+    left:0;
+    top:11px;
+
+  }
+  &_link{
+    font-size:12px;
+    font-weight: 600;
+    color:rgba(255, 255, 255, 0.87);
+    text-transform: uppercase;
+  }
+}

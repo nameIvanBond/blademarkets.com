@@ -1,0 +1,76 @@
+<div class="trading active_animate">
+  <div class="fadeInUp animate duration_05">
+  <div class="contentCenter ">
+    <h1 class="trading_h txt_white width730" i18n="trading-condition|trading header">Forex Trading Conditions</h1>
+    <mat-tab-group mat-align-tabs="start">
+      <mat-tab label="{{nameSource[type.key]}}" *ngFor="let type of BigArray | keyvalue">
+
+        <table mat-table [dataSource]="type.value.td" multiTemplateDataRows class="mat-elevation-z8">
+          <ng-container matColumnDef="{{column.td}}" *ngFor="let column of type.value.th">
+            <th mat-header-cell *matHeaderCellDef> {{column.th}} </th>
+            <td mat-cell *matCellDef="let element"> {{column.td !== 'trading_intervals' ? element[column.td] : ""}}
+              <mat-icon *ngIf="column.td==='trading_intervals'" class="">date_range</mat-icon>
+            </td>
+          </ng-container>
+          <ng-container matColumnDef="expandedDetail">
+            <td mat-cell *matCellDef="let element" [attr.colspan]="type.value.th.length">
+              <div class="example-element-detail"
+                   [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
+
+                <div class="example-element-description">
+                  <div><p>Trading hours by ET:</p></div>
+                  <div fxLayout="row wrap" fxLayoutAlign="space-between center">
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Sunday</p>
+                      <p>{{element.schedule.Sunday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Monday</p>
+                      <p>{{element.schedule.Monday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Tuesday</p>
+                      <p>{{element.schedule.Tuesday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Wednesday</p>
+                      <p>{{element.schedule.Wednesday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Thursday</p>
+                      <p>{{element.schedule.Thursday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Friday</p>
+                      <p>{{element.schedule.Friday}}</p>
+                    </div>
+                    <div class="t_hours" fxFlex="100" fxFlex.gt-sm="13">
+                      <p>Saturday</p>
+                      <p>{{element.schedule.Saturday}}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="type.value.thBottom"></tr> <!-- tr>th -->
+          <!-- tr main -->
+          <tr mat-row *matRowDef="let element; columns: type.value.thBottom;"
+              class="example-element-row"
+              [class.example-expanded-row]="expandedElement === element"
+              (click)="expandedElement = expandedElement === element ? null : element">
+          </tr>
+          <!-- tr  inside -->
+          <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
+        </table>
+
+      </mat-tab>
+
+    </mat-tab-group>
+  </div>
+  </div>
+</div>
+
+
+

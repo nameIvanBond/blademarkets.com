@@ -1,0 +1,66 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.wl_sec1{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc 0 0 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_img{
+    margin-top:$indent_mob;
+  }
+}
+.wl_sec2{
+  padding:$indent_pc 0;
+  background-color: #091c27;
+}
+
+
+.wl_sec3{
+  padding:$indent_pc 0;
+  &_h{
+    text-align: center;
+    width: 100%;
+  }
+  &_btn{
+    margin-top:$indent_tab;
+    text-align: center;
+  }
+  &_box{
+    &_col{
+      margin-top:$indent_tab;
+      &_img{
+        height:129px;
+        @include img_opt();
+        background-position: center;
+      }
+      &_h{
+        color:#9d968c;
+        font-family: 'NotoSerif', 'Arial';
+        margin-top:$indent_mob;
+        margin-bottom:$indent_mob_small;
+      }
+      &_txt{
+        max-width: 386px;
+        width:100%;
+        @include respond_to(tab) {
+          max-width:100%;
+        }
+      }
+    }
+  }
+  &_img1{
+    @include bg_img("/assets/ib/ib_sec3_img1.webp");
+    @include ios("/assets/ib/ib_sec3_img1@2x.webp", "2");
+  }
+  &_img2{
+    @include bg_img("/assets/ib/ib_sec3_img2.webp");
+    @include ios("/assets/ib/ib_sec3_img2@2x.webp", "2");
+  }
+  &_img3{
+    @include bg_img("/assets/ib/ib_sec3_img3.webp");
+    @include ios("/assets/ib/ib_sec3_img3@2x.webp", "2");
+  }
+}

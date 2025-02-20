@@ -1,0 +1,134 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.trading {
+  position: relative;
+  z-index: 3;
+  /*min-height: 600px;*/
+  padding-top:$h_t_indent_pc;
+  padding-bottom:$indent_pc;
+  background-color: #091c27;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+    margin:0 auto;
+    @include respond_to(tab) {
+      text-align: left;
+    }
+  }
+  tr, td, table {
+    vertical-align: middle;
+    font-family: 'Montserrat', 'Arial';
+  }
+  .mat-tab-group{
+    margin-top: $indent_pc;
+    padding:$indent_tab $indent_mob;
+    min-height: 700px;
+    background-color: white;
+    @include respond_to(tab) {
+      margin-top: $indent_tab;
+      padding:$indent_tab 0;
+    }
+  }
+
+
+}
+
+tr.mat-row, tr.mat-footer-row {
+  height: 56px;
+  cursor: pointer;
+}
+
+
+table {
+  width: 100%;
+}
+
+tr.example-detail-row {
+  height: 0;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: whitesmoke;
+}
+
+tr.example-element-row:not(.example-expanded-row):active {
+  background: #efefef;
+}
+
+.example-element-row td {
+  border-bottom-width: 0;
+}
+
+.example-element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.example-element-diagram {
+  min-width: 80px;
+  border: 2px solid black;
+  padding: 8px;
+  font-weight: lighter;
+  margin: 8px 0;
+  height: 104px;
+}
+
+.example-element-symbol {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: normal;
+}
+
+.example-element-description {
+  padding: 16px;
+  width: 100%;
+}
+
+.example-element-description-attribution {
+  opacity: 0.5;
+}
+
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+th.mat-header-cell {
+  vertical-align: middle;
+  opacity: 0.5;
+}
+
+td.mat-cell:last-of-type,
+th.mat-header-cell:last-of-type {
+  padding-right: 0;
+}
+
+td.mat-cell, th.mat-header-cell {
+  padding: 0 10px;
+}
+td.mat-cell:first-of-type,th.mat-header-cell:first-of-type{
+  padding-left: 10px;
+}
+.t_hours{
+  @include respond_to(tab){
+    margin-top:$indent_mob_small;
+  }
+}
+.mat-cell{
+  font-size:100%;
+  @include respond_to(mid_pc){
+    font-size:95%;
+  }
+}
+.mat-header-cell {
+  font-size: 90%;
+}
+
+th.mat-header-cell{
+  opacity: 1;
+  background-color: #091c27;
+  color:white;
+  font-size: 12px;
+}

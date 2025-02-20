@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template" target-language="ar-AE">
+    <body>
+      <trans-unit id="4533040258048249238" datatype="html">
+        <source>Swiss Marketing</source>
+        <target>السويسرية للتسويق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+        <note priority="1" from="description">name 1</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="6963951407992365882" datatype="html">
+        <source>Swiss Marketing — Home</source>
+        <target>السويسرية للتسويق — الرئيسة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+        <note priority="1" from="description">title 2</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="2528180870974490651" datatype="html">
+        <source>About Us</source>
+        <target>نبذة عنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+        <note priority="1" from="description">menu 3</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="6208543089549627461" datatype="html">
+        <source>Swiss Marketing — About Us</source>
+        <target>السويسرية للتسويق — نبذة عنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">37,38</context>
+        </context-group>
+        <note priority="1" from="description">title 3</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5342376879586439569" datatype="html">
+        <source>Services</source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+        <note priority="1" from="description">menu 4</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="2504719500414791672" datatype="html">
+        <source>Swiss Marketing — Services</source>
+        <target>السويسرية للتسويق — الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">46,47</context>
+        </context-group>
+        <note priority="1" from="description">title 4</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="2614759281289037023" datatype="html">
+        <source>Careers</source>
+        <target>الوظائف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+        <note priority="1" from="description">menu 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="5135023711124961915" datatype="html">
+        <source>Swiss Marketing — Careers</source>
+        <target>السويسرية للتسويق — الوظائف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+        <note priority="1" from="description">title 5</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1797966231444258542" datatype="html">
+        <source>Contact Us</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">72,73</context>
+        </context-group>
+        <note priority="1" from="description">menu 6</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="1406991031012248330" datatype="html">
+        <source>Swiss Marketing — Contact Us</source>
+        <target>السويسرية للتسويق — اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">73,74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <note priority="1" from="description">title 6</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="8246924488255619621" datatype="html">
+        <source>Swiss Marketing — Terms and Conditions</source>
+        <target>السويسرية للتسويق — الشروط والأحكام</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">81,82</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+        <note priority="1" from="description">title 7</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="4642766465209587959" datatype="html">
+        <source>Swiss Marketing — Privacy Policy</source>
+        <target>السويسرية للتسويق — سياسة الخصوصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+        <note priority="1" from="description">title 8</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="2570017685356508851" datatype="html">
+        <source>Swiss Marketing — Refund and Cancellation Policy</source>
+        <target>السويسرية للتسويق — سياسة الاسترداد والإلغاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+        <note priority="1" from="description">title 9</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="8012072073815243466" datatype="html">
+        <source>Swiss Marketing —  Refund and Cancellation Policy</source>
+        <target>السويسرية للتسويق — سياسة الاسترداد والإلغاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.routing.ts</context>
+          <context context-type="linenumber">98,99</context>
+        </context-group>
+        <note priority="1" from="description">description 9</note>
+        <note priority="1" from="meaning">menu</note>
+      </trans-unit>
+      <trans-unit id="064435b21ae96c6014d1f92365da930d254c67a8" datatype="html">
+        <source>Name</source>
+        <target>الاسم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">91,104</context>
+        </context-group>
+        <note priority="1" from="description">form label 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="7b57d0f1b5ffe3c77f5c6d2026fb0bf6003907f5" datatype="html">
+        <source>Company</source>
+        <target>الشركة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">121,130</context>
+        </context-group>
+        <note priority="1" from="description">form label 2</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="9147838095241945719" datatype="html">
+        <source>You must enter a value</source>
+        <target>يجب إدخال قيمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">127,128</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">153,154</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">166,167</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="3162468657420941271" datatype="html">
+        <source>This field can be more 2 characters long.</source>
+        <target>يمكن أن يكون هذا الحقل أكثر من حرفين</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">130,131</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">143,144</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">156,157</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">169,170</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 2</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="4837191492498860034" datatype="html">
+        <source>This field can be at most 150 characters long.</source>
+        <target>يمكن أن يتكون هذا الحقل من 150 حرفًا على الأكثر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">133,134</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">146,147</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">159,160</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">185,186</context>
+        </context-group>
+        <note priority="1" from="description">error name txt 3</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="c873ebe07d7c0e7ec394c90684e1a10a429ee995" datatype="html">
+        <source>Enter your Phone</source>
+        <target>أدخل رقم هاتفك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">143,148</context>
+        </context-group>
+        <note priority="1" from="description">form label 3</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="82b5909b0c9b80eb48c626dd7b102eb2abcfe71a" datatype="html">
+        <source>Enter your Email</source>
+        <target>أدخل بريدك الإلكتروني</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">159,168</context>
+        </context-group>
+        <note priority="1" from="description">form label 4</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="1508446162541270004" datatype="html">
+        <source>This field can be at most 300 characters long.</source>
+        <target>يمكن أن يتكون هذا الحقل من 300 حرف على الأكثر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">172,173</context>
+        </context-group>
+        <note priority="1" from="description">error message txt 3</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="8814513610111571884" datatype="html">
+        <source>An Email is required.</source>
+        <target>البريد الالكتروني مطلوب.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">179,180</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="6456a69c23ed6cfe1b2c804df0c87d31e6e8ed31" datatype="html">
+        <source>Services</source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">179,185</context>
+        </context-group>
+        <note priority="1" from="description">form label 5</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="8870942507354187294" datatype="html">
+        <source>Please enter a valid email address.</source>
+        <target>رجاء قم بإدخال بريد الكتروني صحيح.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">182,183</context>
+        </context-group>
+        <note priority="1" from="description">error email txt 2</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="1572167567702087354" datatype="html">
+        <source>A phone is required.</source>
+        <target>رقم الهاتف مطلوب.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">192,193</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="4527654102807929592" datatype="html">
+        <source>That doesn‘t look like a valid phone.</source>
+        <target>هذا لا يبدو هاتفًا فعال.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">195,196</context>
+        </context-group>
+        <note priority="1" from="description">error phone txt 1</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="770ba975efd806aedf0ce66ed335360a55643db0" datatype="html">
+        <source>Add Your comment</source>
+        <target>أضف تعليقك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">197,209</context>
+        </context-group>
+        <note priority="1" from="description">form label 6</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="bc8235832341d41fdb4a614914a154393233c09f" datatype="html">
+        <source>SUBMIT</source>
+        <target>إرسال</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/form/feedbackForm.component.ts</context>
+          <context context-type="linenumber">227</context>
+        </context-group>
+        <note priority="1" from="description">submit button</note>
+        <note priority="1" from="meaning">feedbackForm</note>
+      </trans-unit>
+      <trans-unit id="f9574949fe3ce09da1be791d95470e01d184ee4e" datatype="html">
+        <source>Delivering Results</source>
+        <target>النتائج الفعالة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">37,47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">top header</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="1c473b815542b6d62d4ddf9619f58d36ec77f74a" datatype="html">
+        <source>Who We Are</source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 2 header</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="01df892fef114cfb1f5bbdf80936e5604c6a61a0" datatype="html">
+        <source>Our systems and solutions, which serve all parties, regardless of the type and size of the business, are ideal for electronic and cloud service providers who are looking to increase their business opportunities</source>
+        <target>أنظمتنا وحلولنا ، التي تخدم جميع الأطراف ، بغض النظر عن نوع وحجم الأعمال ، مثالية لمقدمي الخدمات الإلكترونية والسحابية الذين يتطلعون إلى زيادة فرص أعمالهم</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 2 txt</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="a29d29b7d5d3b3b3e74057135a3568879369e840" datatype="html">
+        <source>Our Services</source>
+        <target>خدماتنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 3 header</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="765fce5dbaaed6294ed29ef206e719b57e6e6447" datatype="html">
+        <source>If you are looking or planning to use our services as an important part of your sales to boost your sales and income — it is the time to partner with us without hesitation</source>
+        <target>إذا كنت تبحث أو تخطط لاستخدام خدماتنا كجزء مهم من مبيعاتك لزيادة مبيعاتك ودخلك — فقد حان الوقت للشراكة معنا دون تردد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 3 txt</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="6e365ce51067b9cbf28431e49237b203a800d3d9" datatype="html">
+        <source>Careers</source>
+        <target>الوظائف</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description"> img 3</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="3c4d487d04b48c4112d1badea1c7bc089a6e0da6" datatype="html">
+        <source>Swiss International for Marketing is a niche and innovative business agency that focuses on helping clients create, develop and increase their business in new markets through a host of strategic marketing and business development opportunities.</source>
+        <target>السويسرية الدولية للتسويق هي وكالة أعمال متخصصة ومبتكرة تركز على مساعدة العملاء في إنشاء وتطوير وزيادة أعمالهم في أسواق جديدة من خلال مجموعة من فرص التسويق الاستراتيجي وتطوير الأعمال.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 6 txt 1</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="86dead637991aa73e6c1f3b1896762e00048e3ef" datatype="html">
+        <source>We research, create, host and deliver focussed b2b events and digital campaigns to help grow your business. the Swiss International for Marketing team brings together over 25 years of expertise in delivering high performance results to clients across the globe.</source>
+        <target>نحن نبحث وننشئ ونستضيف ونقدم أحداثًا مركزة وحملات رقمية ثنائية القاعدة للمساعدة في تنمية أعمالك. يجمع فريق السويسرية الدولية للتسويق  أكثر من 25 عامًا من الخبرة في تقديم نتائج عالية الأداء للعملاء في جميع أنحاء العالم.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 6 txt 2</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+
+      <trans-unit id="a45ed0759e83193b9528a17e0fb91a1fd04c96aa" datatype="html">
+        <source>Contact Us</source>
+        <target>اتصل بنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">contact header 1</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+
+
+
+
+
+
+      <trans-unit id="dbec913d53d232787342183e85cc2398d5713589" datatype="html">
+              <source>8162, King Fahd Branch Road</source>
+              <target>، طريق الملك فهد الفرعي  8162</target>
+              <context-group purpose="location">
+                <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+                <context context-type="linenumber">90,94</context>
+              </context-group>
+              <note priority="1" from="description">contact txt 1_1</note>
+              <note priority="1" from="meaning">home</note>
+            </trans-unit>
+
+            <trans-unit id="5b7ca3f8b268841378c31c2d37310ae0f7afef66" datatype="html">
+              <source>3701, Al Olaya Dist.</source>
+              <target>3701  ، حي العليا</target>
+              <context-group purpose="location">
+                <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+                <context context-type="linenumber">91,95</context>
+              </context-group>
+              <note priority="1" from="description">contact txt 1_2</note>
+              <note priority="1" from="meaning">home</note>
+            </trans-unit>
+
+            <trans-unit id="59963d5b01fa885bbe651e984b1a6d450d746ab7" datatype="html">
+              <source> الرياض</source>
+              <target></target>
+              <context-group purpose="location">
+                <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+                <context context-type="linenumber">92,98</context>
+              </context-group>
+              <note priority="1" from="description">contact txt 1_3</note>
+              <note priority="1" from="meaning">home</note>
+            </trans-unit>
+
+            <trans-unit id="b0bf9bd240b4e0c7aa01918640a7938a86511bdf" datatype="html">
+              <source>12313</source>
+              <target></target>
+              <context-group purpose="location">
+                <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+                <context context-type="linenumber">93,99</context>
+              </context-group>
+              <note priority="1" from="description">contact txt 1_4</note>
+              <note priority="1" from="meaning">home</note>
+            </trans-unit>
+
+            <trans-unit id="04cefe2f239719dd5db811a1b3190bf9c70e1258" datatype="html">
+              <source> Kingdom of Saudi Arabia</source>
+              <target>المملكة العربية السعودية</target>
+              <context-group purpose="location">
+                <context context-type="sourcefile">src/app/view/web/home/home.component.html</context>
+                <context context-type="linenumber">94,105</context>
+              </context-group>
+              <note priority="1" from="description">contact txt 1_5</note>
+              <note priority="1" from="meaning">home</note>
+            </trans-unit>
+
+
+
+
+
+
+      <trans-unit id="f74c5b7c6e77c558f7a5c0dacf71f60d8a2eb209" datatype="html">
+        <source>Saudi Arabia</source>
+        <target>المملكة العربية السعودية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">contact txt 1</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="6842729aec55075f147a59bfbaa70eafc4e1effc" datatype="html">
+        <source>Order Service</source>
+        <target>طلب الخدمة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">contact header 2</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="59396f779a1f8979fb3b64a2bf4c7f8957cd2c3d" datatype="html">
+        <source>Let us work with you to create a go to market strategy that delivers results</source>
+        <target>دعنا نعمل معك لإنشاء استراتيجية الانتقال إلى السوق التي تحقق النتائج</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">contact txt 3</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="72c0de2625c69279e7b924c87750cbe4db91edf0" datatype="html">
+        <source>Want to discuss your ideas?</source>
+        <target>تريد مناقشة أفكارك؟</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">contact header 3</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="9f4ed3830b603a22dbe33b0cd02eec5a77f16da7" datatype="html">
+        <source>Request Now </source>
+        <target>اطلب الان </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/home/platform.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <note priority="1" from="description">section 4 button request now</note>
+        <note priority="1" from="meaning">home</note>
+      </trans-unit>
+      <trans-unit id="56f1634d32cda52ef53ae519d1237c9c7a097612" datatype="html">
+        <source>Privacy Policy</source>
+        <target>سياسة الخصوصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 header 1</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="49eada8a51afa11e874043aa1f74c44d4f4bf32f" datatype="html">
+        <source>Swiss International for Marketing will determine in its sole discretion which posted content will be displayed on the overhead monitors at the Event venue. By attending the Event, you acknowledge and agree as follows: (a) Swiss International for Marketing may edit and use the footage it captures at Swiss International for Marketing Events for marketing and promotional activities and for any other lawful purpose in the ordinary course of its business; and (b) Due to the prevalence of mobile recording devices in today’s world, Swiss International for Marketing disclaims all liability for the capture of your image in any multimedia format by other Attendees at the Event.</source>
+        <target>ستحدد السويسرية الدولية للتسويق وفقًا لتقديرها الخاص المحتوى المنشور الذي سيتم عرضه على الشاشات العلوية في مكان الحدث. بحضور الحدث ، فإنك تقر وتوافق على ما يلي: (أ) يجوز للشركة  السويسرية الدولية للتسويق تحرير واستخدام اللقطات التي تلتقطها في السويسرية الدولية لأحداث التسويق لأغراض التسويق والأنشطة الترويجية ولأي غرض قانوني آخر في سياقها المعتاد اعمال؛ و (ب) نظرًا لانتشار أجهزة تسجيل الأجهزة المحمولة في عالم اليوم ، فإن السويسرية الدولية للتسويق تخلي مسؤوليتها عن التقاط صورتك بأي تنسيق وسائط متعددة من قبل الحاضرين الآخرين في الحدث.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 1</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="b908ac647e8fc58b22f2ae94f6bc0191cc3ab2c4" datatype="html">
+        <source>In no situations shall Swiss International for Marketing will hold accountability for any damage or loss, which might occur to persons and/or properties during the Event, including explicitly intrusions of possession and all commercial losses. As the insurance subscribed by Swiss International for Marketing does not cover the participants, it is up to you to subscribe a third-party liability insurance.</source>
+        <target>لن تتحمل شركة  السويسرية الدولية للتسويق بأي حال من الأحوال المسؤولية عن أي ضرر أو خسارة قد تحدث للأشخاص و / أو الممتلكات أثناء الحدث ، بما في ذلك التدخلات الصريحة في الحيازة وجميع الخسائر التجارية. نظرًا لأن التأمين الذي تشترك فيه  السويسرية الدولية للتسويق لا يغطي المشاركين ، فالأمر متروك لك للاشتراك في تأمين المسؤولية تجاه الغير.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 2</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="c480a44b61a68f11437ef74843b0a600e9678c8b" datatype="html">
+        <source>All credit/debit cards’ details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties Swiss International for Marketing will not pass any debit/credit card details to third parties</source>
+        <target>لن يتم تخزين , بيع, مشاركة أو تأجير جميع تفاصيل بطاقات الائتمان / الخصم ومعلومات التعريف الشخصية لأي طرف ثالث.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 3</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="d64fbd8deb7d29780c2e5d744971166eec13cdba" datatype="html">
+        <source>Swiss International for Marketing takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, www.swismarketing.com cannot guarantee the security of any information that is disclosed online. Swiss International for Marketing is not responsible for the privacy policies of websites to which it links. If you provide any information to such third parties different rules regarding the collection and use of your personal information may apply. You should contact these entities directly if you have any questions about their use of the information that they collect.</source>
+        <target>تتخذ السويسرية الدولية للتسويق خطوات مناسبة لضمان خصوصية البيانات وأمنها بما في ذلك من خلال منهجيات الأجهزة والبرامج المختلفة. ومع ذلك ، لا يمكن أن يضمن موقع www.swismarketing.com أمان أي معلومات يتم الكشف عنها عبر الإنترنت. السويسرية الدولية للتسويق ليست مسؤولة عن سياسات الخصوصية للمواقع التي ترتبط بها. إذا قدمت أي معلومات إلى هذه الأطراف الثالثة ، فقد يتم تطبيق قواعد مختلفة تتعلق بجمع واستخدام معلوماتك الشخصية. يجب عليك الاتصال بهذه الكيانات مباشرة إذا كان لديك أي أسئلة حول استخدامها للمعلومات التي تجمعها.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 4</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="791a3f744df3b35b0bcd7d1c2be92988a3583c46" datatype="html">
+        <source>Customer using the website who are Minor /under the age of 18 shall not register as a User of the website and shall not transact on or use the website.</source>
+        <target>لا يجوز للعميل الذي يستخدم الموقع ممن هم قاصرون / أقل من 18 عامًا التسجيل كمستخدم للموقع ولا يجوز لهم التعامل أو استخدام الموقع.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 5</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="888660375a3d0a2f3d206e9c47cb70bd215f8eba" datatype="html">
+        <source>Cardholder must retain a copy of transaction records and Merchant policies and rules.</source>
+        <target>يجب على حامل البطاقة الاحتفاظ بنسخة من سجلات المعاملات وسياسات وقواعد التاجر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 6</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="8a5350948460665b1eff50501486956f22463154" datatype="html">
+        <source>User is responsible for maintaining the confidentiality of his account.</source>
+        <target>المستخدم مسؤول عن الحفاظ على سرية حسابه.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 7</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="8269ae5e7fa6cf4bf54be23bfb05b94e6b993959" datatype="html">
+        <source>The Website Policies and Terms &amp; Conditions may be changed or updated occasionally to meet the requirements and standards. Therefore, the Customers’ are encouraged to frequently visit these sections to be updated about the changes on the website. Modifications will be effective on the day they are posted.</source>
+        <target>قد يتم تغيير أو تحديث سياسات الموقع الإلكتروني والشروط والأحكام من حين لآخر لتلبية المتطلبات والمعايير. لذلك ، يتم تشجيع العملاء على زيارة هذه الأقسام بشكل متكرر لتحديثها بشأن التغييرات على موقع الويب. ستكون التعديلات سارية المفعول في يوم نشرها.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/privacy-policy/privacy-policy.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 8</note>
+        <note priority="1" from="meaning">privacy-policy</note>
+      </trans-unit>
+      <trans-unit id="14535b332b60d9c25fe9f50144ccb71988cbc022" datatype="html">
+        <source>Refund and Cancellation Policy</source>
+        <target>سياسة الاسترداد والإلغاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 header 1</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="1a0f92ce8465445d7a936c1e9d9f6e8d3565fd25" datatype="html">
+        <source>The Events organized by Swiss International for Marketing, which reserves the right, in its sole discretion, to limit or deny access to any entity or individual. To be eligible to participate, you must be 21 years or older.</source>
+        <target>الأحداث التي تنظمها السويسرية الدولية للتسويق ، والتي تحتفظ بالحق ، وفقًا لتقديرها الخاص ، في تقييد أو رفض الوصول إلى أي كيان أو فرد. لكي تكون مؤهلاً للمشاركة ، يجب أن يكون عمرك 21 عامًا أو أكثر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 1</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="17b3b8a78c72c9f3221c464a943666df896d9ba6" datatype="html">
+        <source>Registration fee may be refunded or applied as a credit to the other events produced by Swiss International for Marketing, if cancellation is made in writing within 5 days from the time of registration. Cancellations received after the cancellation cutoff date or non-attendance will not be refunded.</source>
+        <target>يمكن استرداد رسوم التسجيل أو تطبيقها كرصيد للأحداث الأخرى التي تنتجها السويسرية الدولية للتسويق ، إذا تم الإلغاء كتابيًا في غضون 5 أيام من وقت التسجيل. الإلغاءات المستلمة بعد تاريخ إلغاء الإلغاء أو عدم الحضور لن يتم ردها.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 2</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="3d5e8ed1fe11c4bd65a4e9121fb3036cefe4b66f" datatype="html">
+        <source>Cancellations received after the cutoff date with a balance due will receive a cancellation invoice for the full registration amount due. Cancellation cutoff date for all Events is 15 business days prior to Event start date.</source>
+        <target>الإلغاءات المستلمة بعد تاريخ الإغلاق برصيد مستحق ستتلقى فاتورة إلغاء لكامل مبلغ التسجيل المستحق. تاريخ آخر إلغاء لجميع الأحداث هو 15 يوم عمل قبل تاريخ بدء الحدث.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 3</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="a3e9e85480461191387c224bfab08da6bd74c401" datatype="html">
+        <source>Substitution of registrations may be made at any time up to the Event start date. Sharing of Attendee passes is not permitted. &quot;No Shows&quot; will be deemed a cancellation as per the cancellation cutoff date mentioned above.</source>
+        <target>يجوز استبدال التسجيلات في أي وقت حتى تاريخ بدء الحدث. غير مسموح بمشاركة تصاريح الحضور. سيتم اعتبار &quot;عدم العروض&quot; إلغاء حسب تاريخ إلغاء الإلغاء المذكور أعلاه.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 4</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="cd4f82a15af2e0665c0cf6c838c09f67c3759c56" datatype="html">
+        <source>Currency Exchange Rate Disclaimer: Client / Cardholder confirms acknowledgment and acceptance of a potential gain / loss incurred by any adjustments made by their bank due to the currency exchange rate. Swiss International for Marketing will not be liable or responsible for any loss incurred by the Client/ Cardholder from an adjustment made due to the currency exchange rate. Nor will Swiss International for Marketing pursue the Client/Cardholder for collection if that adjustment should be made in the Client’s/Cardholder&apos;s favor.</source>
+        <target>إخلاء المسئولية عن سعر صرف العملات: يؤكد العميل / حامل البطاقة إقراره وقبوله بالمكاسب / الخسائر المحتملة التي يتكبدها البنك بسبب أي تعديلات يتم إجراؤها من قبل البنك بسبب سعر صرف العملة. لن تكون السويسرية الدولية للتسويق مسئولة أو المسؤول عن أي خسارة يتكبدها العميل / حامل البطاقة نتيجة تعديل يتم إجراؤه بسبب سعر صرف العملة. ولن تلاحق الشركة السويسرية الدولية للتسويق العميل / حامل البطاقة للتحصيل إذا كان يجب إجراء هذا التعديل لصالح العميل / حامل البطاقة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 5</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="3c50d4a2b7eb80230ea4f5afeb2581139d264d2a" datatype="html">
+        <source>By attending the Event, you agree to abide by all generally applicable rules and regulations governing your Event that have been provided or otherwise made known to you by Swiss International for Marketing. You further agree to comply in every respect with all applicable global laws and regulations. All government and public-sector attendees are responsible for complying with their own rules and regulations.</source>
+        <target>بحضور الحدث ، فإنك توافق على الالتزام بجميع القواعد واللوائح المعمول بها بشكل عام والتي تحكم الحدث الخاص بك والتي تم توفيرها لك أو التي تم إعلامك بها بطريقة أخرى من قبل السويسرية الدولية للتسويق. أنت توافق أيضًا على الامتثال من جميع النواحي لجميع القوانين واللوائح العالمية المعمول بها. جميع الحاضرين من الحكومة والقطاع العام مسؤولون عن الامتثال للقواعد واللوائح الخاصة بهم.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 6</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="b6a459b2e28b24150b6702370904dfbd0cec09f2" datatype="html">
+        <source>Should the organiser cancel this event, the organiser will not be liable for any consequential damages incurred due to such cancellation.</source>
+        <target>إذا ألغى المنظم هذا الحدث ، فلن يكون المنظم مسؤولاً عن أي أضرار تبعية تحدث بسبب هذا الإلغاء.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/refund-cancellation/refund-cancellation.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 7</note>
+        <note priority="1" from="meaning">refund</note>
+      </trans-unit>
+      <trans-unit id="c723fd7ee9d3aceb53d8db3a91d7b42a111c9eab" datatype="html">
+        <source>Terms &amp; Conditions</source>
+        <target>الأحكام والشروط</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 header 1</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="0e0a3b0447ee2e2446dafb69f2749390779058b0" datatype="html">
+        <source>In specific reference to the payments made using credit or debit card:</source>
+        <target>في إشارة محددة إلى المدفوعات التي تتم باستخدام بطاقة الائتمان أو الخصم:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 1</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="501ec04f5fd40f3f37bb310371fef5c44b43ba02" datatype="html">
+        <source>In no situations shall Swiss International for Marketing will hold accountability for any damage or loss, which might occur to persons and/or properties during the event, including explicitly intrusions of possession and all commercial losses. As the insurance subscribed by Swiss International for Marketing does not cover the participants, it is up to you to subscribe a third-party liability insurance.</source>
+        <target>لن تتحمل شركة الشركة السويسرية الدولية بأي حال من الأحوال المسؤولية عن أي ضرر أو خسارة قد تحدث للأشخاص و / أو الممتلكات أثناء الحدث ، بما في ذلك التدخلات الصريحة في الحيازة وجميع الخسائر التجارية. نظرًا لأن التأمين الذي تشترك فيه الشركة السويسرية الدولية لا يغطي المشاركين ، فالأمر متروك لك للاشتراك في تأمين المسؤولية تجاه الغير.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 2</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="2b28a265246b800827a2efc859c4d496aa297f22" datatype="html">
+        <source>“United Arab of Emirates is our country of domicile” and stipulate that the governing law is the local law. Visa and master card) and which currencies will be accepted for payment.</source>
+        <target>"الإمارات العربية المتحدة هي بلد إقامتنا" وتنص على أن القانون الحاكم هو القانون المحلي. فيزا وماستر كارد) وأي عملات سيتم قبولها للدفع.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 3</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="b28a5365a0b851f24b2f1ebf2d814e49bf74505b" datatype="html">
+        <source>We will not trade with or provide any services to ofac and sanctioned countries.</source>
+        <target>لن نتاجر مع أو نقدم أي خدمات لـ OFAC والبلدان الخاضعة للعقوبات.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 4</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="9c0c618de60b15e2a60f617494b00529e6aad65d" datatype="html">
+        <source>Customer using the website who are minor /under the age of 18 shall not register as a user of the website and shall not transact on or use the website.</source>
+        <target>لا يجوز للعميل الذي يستخدم الموقع ممن هم قاصرون / دون سن 18 عامًا التسجيل كمستخدم للموقع ولا يجوز لهم التعامل أو استخدام الموقع.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 5</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="5885c7ac9bc08cfd24b22ff6c6e77e62eeb2739b" datatype="html">
+        <source>Cardholder must retain a copy of transaction records and merchant policies and rules.</source>
+        <target>يجب على حامل البطاقة الاحتفاظ بنسخة من سجلات المعاملات وسياسات وقواعد التاجر.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 6</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="70c45f467a9e3534119e6b3c8406d28c61ca1f4b" datatype="html">
+        <source>User is responsible for maintaining the confidentiality of his account.</source>
+        <target>المستخدم مسؤول عن الحفاظ على سرية حسابه.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 7</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="191ee2c78dd5b3ac0fb40986b1c65529a89495a5" datatype="html">
+        <source>All credit/debit cards’ details and personally identifiable information will not be stored, sold, shared, rented or leased to any third parties</source>
+        <target>لن يتم تخزين جميع تفاصيل بطاقات الائتمان / الخصم ومعلومات التعريف الشخصية أو بيعها أو مشاركتها أو تأجيرها أو تأجيرها لأي طرف ثالث</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 8</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="f14a3d7cc1339fffb7542c0aadcba70f5b976b6f" datatype="html">
+        <source>Swiss International for Marketing will not pass any debit/credit card details to third parties.</source>
+        <target>لن تمرر السويسرية الدولية للتسويق أي تفاصيل لبطاقة الخصم / الائتمان إلى جهات خارجية.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 9</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="c55e8433a187bd32752f291502e736e6a4d6376c" datatype="html">
+        <source>Swiss International for Marketing takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies.</source>
+        <target>تتخذ السويسرية الدولية للتسويق خطوات مناسبة لضمان خصوصية البيانات وأمنها بما في ذلك من خلال منهجيات الأجهزة والبرامج المختلفة.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 10</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="9bade02a0384e9857faee26e516bd8b9c3b25e8a" datatype="html">
+        <source>However, www.swismarketing.com cannot guarantee the security of any information that is disclosed online.</source>
+        <target>ومع ذلك ، لا يمكن أن يضمن موقع www.swismarketing.com أمان أي معلومات يتم الكشف عنها عبر الإنترنت.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 11</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="2fc0d0ff83386dbeb54dd33dfdb33b2ede6adcd6" datatype="html">
+        <source>However Swiss International for Marketing reserves the right to make changes to the event venue, timings, agenda, and participants of the event and/or to postpone or cancel the event.</source>
+        <target>ومع ذلك ، تحتفظ السويسرية الدولية للتسويق بالحق في إجراء تغييرات على مكان الحدث ، وتوقيته ، وجدول أعماله ، والمشاركين فيه
+و / أو تأجيل أو إلغاء الحدث.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 12</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="e3213595d81bd33058edced7e1c3ff9a3ef336ab" datatype="html">
+        <source>Swiss International for Marketing uses the personal data you provide in this registration for administering your participation in this event. To this end, Swiss International for Marketing may disclose your personal data to third party service providers (e.G., mailing houses and any other providers engaged by Swiss International for Marketing to assist in the conduct of the event). Swiss International for Marketing may also disclose your personal data to other event attendees but will do so solely in connection with the event attendee list and always in compliance with applicable data protection laws and our privacy principles. Except as described herein, Swiss International for Marketing will not disclose your personal data to any other third party without your consent except where required to do so by law.</source>
+        <target>تستخدم السويسرية الدولية للتسويق البيانات الشخصية التي تقدمها في هذا التسجيل لإدارة مشاركتك في هذا الحدث. تحقيقا لهذه الغاية ، قد تكشف السويسرية الدولية للتسويق عن بياناتك الشخصية لمقدمي خدمات الطرف الثالث (على سبيل المثال ، دور البريد وأي مزودين آخرين مشتركين من قبل السويسرية الدولية للتسويق للمساعدة في إدارة الحدث). قد تفصح السويسرية الدولية للتسويق أيضًا عن بياناتك الشخصية إلى الحاضرين الآخرين في الحدث ، ولكنها ستفعل ذلك فقط فيما يتعلق بقائمة حضور الحدث ودائمًا ما تتوافق مع قوانين حماية البيانات المعمول بها ومبادئ الخصوصية لدينا. باستثناء ما هو موصوف هنا ، لن تكشف السويسرية الدولية للتسويق عن بياناتك الشخصية لأي طرف ثالث دون موافقتك إلا إذا كان ذلك مطلوبًا بموجب القانون.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/web/terms-conditions/terms-conditions.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">section 1 txt 13</note>
+        <note priority="1" from="meaning">terms</note>
+      </trans-unit>
+      <trans-unit id="dabdb9878c9d3674bc03327987a93088ec50268f" datatype="html">
+        <source>©2021 All Rights Reserved. Swiss International for Marketing</source>
+        <target>© 2021 جميع الحقوق محفوظة. السويسرية الدولية للتسويق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">txt 1</note>
+        <note priority="1" from="meaning">footer</note>
+      </trans-unit>
+      <trans-unit id="footer_txt1" datatype="html">
+        <source>Terms and Conditions</source>
+        <target>الأحكام والشروط</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer_txt2" datatype="html">
+        <source>Privacy Policy</source>
+        <target>سياسة الخصوصية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer_txt3" datatype="html">
+        <source>Refund and Cancellation Policy</source>
+        <target>سياسة الاسترداد والإلغاء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/footer/footer.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="header_logo" datatype="html">
+        <source>Swiss Marketing</source>
+        <target>السويسرية للتسويق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/view/widget/header/header.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="meaning">header title logo</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

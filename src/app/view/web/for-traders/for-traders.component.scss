@@ -1,0 +1,49 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.traders_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+
+}
+
+.traders_sec2{
+  padding:$indent_pc 0;
+}
+
+.traders_sec3{
+  background-color: #091c27;
+  padding:$indent_pc 0;
+  @include respond_to(mob) {
+    padding: $indent_tab 0;
+  }
+}
+
+.traders_sec4{
+  background-color: #091c27;
+  padding:0 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding:0 0  $indent_tab  0;
+  }
+  &_box{
+    border: solid 2px #9d968c;
+    padding:131px 177px;
+    @include respond_to(tab) {
+      padding:$indent_tab 3%;
+    }
+    &_txt{
+      line-height: 2.5;
+
+    }
+    &_h, &_txt,&_btn{
+      text-align: center;
+    }
+  }
+}
+
+
+
+

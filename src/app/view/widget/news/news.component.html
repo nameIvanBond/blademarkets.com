@@ -1,0 +1,11 @@
+<div class="news_box" fxLayout="row wrap" fxLayoutAlign="space-between start">
+
+  <div class="news_box_col" fxFlex="100" fxFlex.gt-sm="30" fxFlex.gt-xs="47" *ngFor="let item of arrayNews">
+    <a routerLink="/forex-news/{{item.url}}.html" class="news_box_col_link" title="{{item.title}}"></a>
+      <h4 class="news_box_col_h">{{item.title}}</h4>
+      <p class="news_box_col_txt txt_white m_t_mob_s">{{item.intro}}</p>
+      <p class="news_box_col_txt2 m_t_mob_s">{{item.publishedDate | date: 'dd-MM-yyyy HH:mm'}}</p>
+
+  </div>
+
+</div>

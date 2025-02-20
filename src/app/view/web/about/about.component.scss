@@ -1,0 +1,15 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.about_sec1{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_img{
+    margin-top:$indent_mob;
+  }
+}
+

@@ -1,0 +1,92 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.traderPc_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 0 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 0 0;
+  }
+
+  &_img,&_txt{
+    text-align: center;
+    @include respond_to(mob) {
+      text-align: left;
+    }
+  }
+  &_h{
+    max-width: 1073px;
+    width:100%;
+    margin: 0 auto;
+  }
+  &_h,&_btn{
+    text-align: center;
+    margin-top: $indent_tab;
+    @include respond_to(mob) {
+      text-align: left;
+    }
+  }
+  &_btn{
+    margin-top: $indent_mob;
+  }
+  &_img{
+    margin-top: $indent_tab+50px;
+    @include respond_to(tab) {
+      margin-top:$indent_tab;
+    }
+  }
+
+}
+
+
+
+.traderPc_sec2{
+  background-color: #091c27;
+  padding:$indent_pc 0 0 0;
+  @include respond_to(tab) {
+    padding: $indent_tab 0;
+  }
+  &_indent{
+    margin-top:$h_t_indent_tab;
+    @include respond_to(tab) {
+      margin-top:$indent_tab;
+    }
+  }
+  &_box{
+    overflow: hidden;
+    .fadeInLeft{
+      transform: translate3d(-100%, 0, 0);
+    }
+    .fadeInRight{
+      transform: translate3d(100%, 0, 0);
+    }
+    .fadeInLeft,.fadeInRight{
+      transform: translate3d(0, 0, 0);
+    }
+  }
+}
+
+.traderPc_sec3{
+  background-color: #091c27;
+  padding:$indent_pc 0;
+  @include respond_to(tab) {
+    padding:0 0 $indent_tab  0;
+  }
+  &_box{
+    border: solid 2px #9d968c;
+    padding:131px 177px;
+    @include respond_to(tab) {
+      padding:$indent_tab 3%;
+    }
+    &_txt{
+      line-height: 2.5;
+
+    }
+    &_h, &_txt,&_btn{
+      text-align: center;
+    }
+  }
+}
+
+
+

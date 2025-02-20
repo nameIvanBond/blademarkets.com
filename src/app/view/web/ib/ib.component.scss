@@ -1,0 +1,151 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.ib_sec1{
+  background-color: #091c27;
+  position: relative;
+  padding:$h_t_indent_pc  0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+  &_h{
+    font-size: 45px;
+  }
+  &_img{
+    margin-top:$indent_mob;
+  }
+  &_btn{
+    & a:first-child{
+      margin-right: 24px;
+      @include respond_to(mob) {
+        margin: 0 0 $indent_mob 0;
+      }
+    }
+  }
+}
+.ib_sec2{
+  padding:$indent_pc 0;
+  &_h{
+    text-align: center;
+  }
+  &_box{
+    margin-top: $indent_tab+$indent_tab;
+    @include respond_to(tab) {
+      margin-top: $indent_tab;
+    }
+    &_h{
+      font-family: "NotoSerif", "Arial";
+      @include respond_to(tab) {
+        margin-top: $indent_mob;
+      }
+    }
+    &_hBlue,&_txtBlue{
+      text-align: center;
+      @include respond_to(tab) {
+        text-align: left;
+      }
+    }
+    &_txtBlue{
+      @include respond_to(tab) {
+        text-align: justify;
+      }
+    }
+    &_txtBlue{
+      font-family: "NotoSerif", "Arial";
+    }
+
+    &_txt{
+      text-align: justify;
+      max-width: 457px;
+      width: 100%;
+      @include respond_to(tab) {
+        max-width: 100%;
+      }
+    }
+    &_img{
+      @include respond_to(tab) {
+        margin: 0 auto;
+        max-width: 383px;
+display: block;
+      }
+      img {
+        max-width: 383px;
+        width: 100%;
+      }
+    }
+
+    .img_lp{
+      padding-left: 20%;
+      @include respond_to(tab) {
+        padding-left: 0;
+      }
+
+    }
+  }
+  .bg_blue{
+    background-color: #091c27;
+    padding: 16px 40px;
+    @include respond_to(tab) {
+      padding: 16px 2%;
+    }
+  }
+}
+///
+.ib_sec3{
+  padding:$indent_pc 0;
+  background-color: #091c27;
+  &_h{
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+    margin:0 auto;
+  }
+}
+
+
+.ib_sec4{
+  padding:$indent_pc 0;
+  &_h{
+    text-align: center;
+    width: 100%;
+  }
+  &_btn{
+    margin-top:$indent_tab;
+    text-align: center;
+  }
+  &_box{
+    &_col{
+      margin-top:$indent_tab;
+      &_img{
+        height:129px;
+        @include img_opt();
+        background-position: center;
+      }
+      &_h{
+        color:#9d968c;
+        font-family: 'NotoSerif', 'Arial';
+        margin-top:$indent_mob;
+        margin-bottom:$indent_mob_small;
+      }
+      &_txt{
+        max-width: 386px;
+        width:100%;
+        @include respond_to(tab) {
+          max-width:100%;
+        }
+      }
+    }
+  }
+  &_img1{
+    @include bg_img("/assets/ib/ib_sec3_img1.webp");
+    @include ios("/assets/ib/ib_sec3_img1@2x.webp", "2");
+  }
+  &_img2{
+    @include bg_img("/assets/ib/ib_sec3_img2.webp");
+    @include ios("/assets/ib/ib_sec3_img2@2x.webp", "2");
+  }
+  &_img3{
+    @include bg_img("/assets/ib/ib_sec3_img3.webp");
+    @include ios("/assets/ib/ib_sec3_img3@2x.webp", "2");
+  }
+}

@@ -1,0 +1,29 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.footer{
+  background:#091c27;
+  padding:$indent_mob 0;
+  &_box{
+    &_txt{
+      font-size: 12px;
+      line-height: 1.5;
+      opacity: 0.3;
+    }
+    &_middle{
+      margin-top: $indent_tab;
+    }
+    &_bottom{
+      margin-top:$indent_mob;
+      &_txt{
+        color:white;
+        font-size: 12px;
+        line-height: 1.5;
+        a{
+          color:white;
+        }
+      }
+    }
+  }
+
+}

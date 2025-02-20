@@ -1,0 +1,57 @@
+@import "src/scss/mixin";
+@import "src/scss/variables";
+
+.partners_sec1{
+  background-color: #091c27;
+  padding:$h_t_indent_pc 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding: $h_t_indent_tab 0 $indent_tab 0;
+  }
+
+}
+
+.partners_sec2{
+  padding:$indent_pc 0;
+  @include respond_to(tab) {
+    padding:$indent_tab 0;
+  }
+  &_h{
+    text-align: center;
+    @include respond_to(tab) {
+      text-align: left;
+    }
+  }
+  &_btn{
+    text-align: center;
+    margin-top: $indent_tab;
+  }
+}
+
+
+
+
+.partners_sec3{
+  background-color: #091c27;
+  padding:$indent_pc 0;
+  @include respond_to(mob) {
+    padding: $indent_tab 0;
+  }
+}
+
+.partners_sec4{
+  background-color: #091c27;
+  padding:0 0 $indent_pc 0;
+  @include respond_to(tab) {
+    padding:$indent_pc 0;
+  }
+  &_h{
+    max-width:780px;
+    width:100%;
+    text-align: center;
+    margin:0 auto;
+  }
+}
+
+
+
+

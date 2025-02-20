@@ -1,0 +1,33 @@
+<div class="holidays_sec1 active_animate">
+  <div class="fadeInUp animate duration_05">
+  <div class="contentCenter ">
+    <h1 class="holidays_sec1_h txt_white width730" i18n="holidays|holidays_sec1 header">Holidays Schedule</h1>
+    <div class="holidays">
+      <div class="contentCenter">
+        <p class="holidays_topTxt" [innerHTML]="holidaysTitle"></p>
+        <div class="holidays_scroll">
+          <table class="holidays_table m_t_tab">
+            <thead>
+            <th class="txt_left">&nbsp;</th>
+            <th class="txt_left" *ngFor="let name of nameHolidays | keyvalue" [innerHTML]="name.value"></th>
+            </thead>
+            <tbody class="holidays_table_tbody">
+            <tr class="holidays_table_tr" *ngFor="let item of arrayHoliday">
+              <td class="txt_left holidays_table_td"
+                  [ngClass]="{'holidays_table_header':item.k==='Index CFDs' || item.k==='Commodity CFDs'}"
+                  [attr.colspan]="(item.k==='Index CFDs' || item.k==='Commodity CFDs')?countHolidays:0">{{item.k}}</td>
+              <td class="txt_left holidays_table_td" *ngFor="let status of item.v"
+                  [ngClass]="{'no_td':item.k==='Index CFDs' || item.k==='Commodity CFDs', 'red':status.color ==='red'}">{{status.value}}</td>
+            </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+
+
+
